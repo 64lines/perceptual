@@ -1,33 +1,23 @@
 # Exec:
-# $ python bag_of_words.py inputs/positive_words.txt inputs/negative_words.txt
+# $ python perceptual.py inputs/example_tweets.txt
 #!/usr/bin/python
 import sys
-from utils import file_lines_to_list
+from utils import get_file_lines
 
 POSITIVE_WORDS_PATH = "inputs/positive_words.txt"
 NEGATIVE_WORDS_PATH = "inputs/negative_words.txt"
+
+list_positive_words = get_file_lines(POSITIVE_WORDS_PATH)
+list_negative_words = get_file_lines(NEGATIVE_WORDS_PATH)
 
 # Bag of words models using positive, negative and
 # neutral statuses.
 class BagOfWordsAnalizer():
 
-    # Analizes the result and asigns the status according
-    # to the positive and negative words. 
-    def analyze_result(self, result):
-        status = ""
-        if result["positive"] > result["negative"]:
-            status = "positive"
-        elif result["positive"] < result["negative"]:
-            status = "negative"
-        else:
-            status = "neutral"
-        return status
+    def analyze_text(self, text):
+        result = ""
 
-    def bag_of_words(self, text):
-        list_positive_words = file_lines_to_list(POSITIVE_WORDS_PATH)
-        list_negative_words = file_lines_to_list(NEGATIVE_WORDS_PATH)
-
-        result = {
+        polarities = {
             "positive": 0,
             "negative": 0,
             "neutral": 0
@@ -37,19 +27,25 @@ class BagOfWordsAnalizer():
         for word in list_words:
             word = word.lower()
             if word in list_positive_words:
-                result["positive"] += 1
+                polarities["positive"] += 1
             elif word in list_negative_words:
-                result["negative"] += 1
+                polarities["negative"] += 1
             else:
-                result["neutral"] += 1
-        
-        status = self.analyze_result(result)
-        return [result, status]
+                polarities["neutral"] += 1
+
+        if polarities["positive"] > polarities["negative"]:
+            result = "positive"
+        elif polarities["positive"] < polarities["negative"]:
+            result = "negative"
+        else:
+            result = "neutral"
+
+        return result
 
 # Looks for emoticons to figure out more quickly the
 # sentiment of the tweet.
 class EmoticonAnalyzer:
-    
+
     def __init__(self):
         self.dict_emoticon = {
             "positive": [":-P", ";-)", ":-D", ":-)", ":D", ":)", "xD"],
@@ -59,45 +55,56 @@ class EmoticonAnalyzer:
     def analyze_text(self, text):
         positive_index = 0
         negative_index = 0
-        postive_key = "positive"
-        negative_key = "negative"
-        neutral_key = "neutral"
+        result = ""
 
-        for emoticon in self.dict_emoticon[postive_key]:
+        for emoticon in self.dict_emoticon["positive"]:
             if emoticon in text:
                 positive_index += 1
 
-        for emoticon in self.dict_emoticon[negative_key]:
+        for emoticon in self.dict_emoticon["negative"]:
             if emoticon in text:
                 negative_index += 1
-        
+
         if positive_index > negative_index:
-            return postive_key
+            result = "positive"
         elif negative_index > positive_index:
-            return negative_key
+            result = "negative"
         elif negative_index == positive_index:
-            return neutral_key
+            result = "neutral"
+
+        return result
+
+class AnalyzerManager():
+    def __init__(self):
+        self.result_list = []
+        self.bagofwords_analyzer = BagOfWordsAnalizer()
+        self.emoticon_analyzer = EmoticonAnalyzer()
+
+    def run_analysis(self, text):
+        bagofwords_result = self.bagofwords_analyzer.analyze_text(text)
+        emoticons_result = self.emoticon_analyzer.analyze_text(text)
+
+        result = bagofwords_result
+        # If there's any positive or negative result in emoticon analyisis
+        # so we're taking this one as priority instead others.
+        if emoticons_result is not "neutral":
+            result = emoticons_result
+
+        self.result_list.append([text, result])
+
+    def get_result_list(self):
+        return self.result_list
 
 def main_exec():
-    status = ""
-    text = raw_input("Write the text to be analyzed: ")
-    model_bow = BagOfWordsAnalizer()
-    result, status_bow = model_bow.bag_of_words(text)
-     
-    model_em = EmoticonAnalyzer()
-    status_em = model_em.analyze_text(text)
+    tweets_list = get_file_lines(sys.argv[1])
+    manager = AnalyzerManager()
 
-    print " -> Emoticon Analizer status: [%s]" % status_em
-    print " -> Bag of Words Analyzer status: [%s]" % status_bow
+    for tweet in tweets_list:
+        manager.run_analysis(tweet)
 
-    # Chooses the emoticon analyzer as priority to 
-    # guess the sentiment of the tweet.
-    if status_em == "positive" or status_em == "negative":
-        status = status_em
-    else:
-        status = status_bow
-        
-    print "\n (*) The text is [%s]\n" % status
+    result_list = manager.get_result_list()
+    for result in result_list:
+        print "[%s] %s" % (result[1], result[0])
 
 if __name__ == "__main__":
     main_exec()
