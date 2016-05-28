@@ -4,10 +4,12 @@
 import sys
 from utils import get_file_lines
 from models import OpinionMiningAnalyzer
+from models import DatabaseConnection
 
 def main_exec():
+    db_connection = DatabaseConnection()
     analyzer = OpinionMiningAnalyzer()
-    analyzer.list_entries = get_file_lines(sys.argv[1])
+    analyzer.list_entries = db_connection.get_post_entries()
     analyzer.analyize_entries() # Making analysis
 
     print "\nAnalysis:\n"

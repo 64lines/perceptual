@@ -1,13 +1,63 @@
-from settings import POSITIVE_WORDS_PATH, NEGATIVE_WORDS_PATH
+import urllib
+import psycopg2
 from utils import get_file_lines
+from settings import DB_USER
+from settings import DB_PASSWORD
+from settings import DB_INSTANCE
+from settings import DB_POST_FIELD
+from settings import DB_POST_TABLE
+from settings import NLTK_API_URL
+from settings import NEGATIVE_WORDS_PATH
+from settings import POSITIVE_WORDS_PATH
+
+# Database operations.
+class DatabaseConnection:
+    def get_post_entries(self):
+        list_entries = []
+        con = None
+        try:
+            con = psycopg2.connect(
+                database=DB_INSTANCE,
+                user=DB_USER,
+                password=DB_PASSWORD
+            )
+            cur = con.cursor()
+            cur.execute(
+                'SELECT %s FROM %s WHERE reviewed=false' %
+                    (DB_POST_FIELD, DB_POST_TABLE)
+            )
+            list_data = cur.fetchall()
+            list_entries = [post[0] for post in list_data]
+            print list_entries
+        except psycopg2.DatabaseError, e:
+            print 'Error %s' % e
+            sys.exit(1)
+        finally:
+            if con:
+                con.close()
+
+        return list_entries
 
 # Looks for emoticons to figure out more quickly the
 # sentiment of the tweet.
 class EmoticonAnalyzer:
     def __init__(self):
         self.__dict_emoticon = {
-            "positive": [":-P", ";-)", ":-D", ":-)", ":D", ":)", "xD"],
-            "negative": [":-||", ":-/", "D-:", ":-(", "D:", ":(", "Dx"]
+            "positive": [
+                ":-)", ":)", ":D", ":o)", ":]", ":3", ":c)",
+                ":>", "=]", "8)", "=)", ":}", ":^)", ":-D",
+                "8-D", "8D", "x-D", "xD", "X-D", "XD", "=-D",
+                "=D", "=-3", "=3", "B^D", ":-))", ":'-)",
+                ":')", ";-)", ";)", "*-)", "*)", ";-]", ";]",
+                ";D", ";^)", ":-,"
+            ],
+            "negative": [
+                ":-||", ":-/", "D-:", ":-(", "D:", ":(", "Dx",
+                ">:[", ":-(", ":(", ":-c", ":c", ":-<", ":<",
+                ":-[", ":[", ":{", ";(", ":-||", ":@", ">:(",
+                ":'-(", ":'(", ">:O", ":-O", ":O", ":-o", ":o",
+                "8-0", "O_O", "o-o", "O_o", "o_O", "o_o", "O-O"
+            ]
         }
 
     def analyze_text(self, text):
@@ -64,6 +114,19 @@ class BagOfWordsAnalizer:
 
         return result
 
+class NLTKAnalyzer:
+    def __init__(self):
+        self.__conventions = {
+            "pos": "positive", "neg": "negative", "neutral": "neutral"
+        }
+
+    def analyze_text(self, text):
+        data = urllib.urlencode({"text": text})
+        u = urllib.urlopen(NLTK_API_URL, data)
+        the_page = u.read()
+        result = eval(the_page)['label']
+        return self.__conventions[result]
+
 # Bag of words models using positive, negative and
 # neutral statuses.
 class OpinionMiningAnalyzer:
@@ -80,20 +143,31 @@ class OpinionMiningAnalyzer:
     def analyize_entries(self):
         for entry in self.list_entries:
             self.make_analysis(entry)
+            print self.analysis_result
 
     # Make general analysis of all the texts evaluated.
     def make_analysis(self, text):
         # Emoticon analysis
         emo_analyzer = EmoticonAnalyzer()
-        bow_result = emo_analyzer.analyze_text(text)
+        emo_result = emo_analyzer.analyze_text(text)
 
         # Bag of words analysis
         bow_analyzer = BagOfWordsAnalizer()
         bow_analyzer.list_positive_words = self.__list_positive_words
         bow_analyzer.list_negative_words = self.__list_negative_words
-        emo_result = bow_analyzer.analyze_text(text)
+        bow_result = bow_analyzer.analyze_text(text)
 
+        # NLTK analysis
+        nltk_analyzer = NLTKAnalyzer()
+        nltk_result = nltk_analyzer.analyze_text(text)
+
+        # If the emoticon analysis is neutral then
+        # use the bag of words analysis, if this analyisis is neutral too
+        # then use the nltk analysis and if this analysis says that is neutral
+        # too then use that one anyway.
         if emo_result is not 'neutral':
             self.analysis_result[emo_result] += 1
-        else:
+        elif bow_result is not 'neutral':
             self.analysis_result[bow_result] += 1
+        else:
+            self.analysis_result[nltk_result] += 1
