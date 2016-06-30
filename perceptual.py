@@ -4,12 +4,12 @@
 import sys
 from utils import get_file_lines
 from models import OpinionMiningAnalyzer
-from models import DatabaseConnection
+from models import PostManager
 
 def main_exec():
-    db_connection = DatabaseConnection()
+    post_manager = PostManager()
     analyzer = OpinionMiningAnalyzer()
-    analyzer.list_entries = db_connection.get_post_entries()
+    analyzer.list_entries = post_manager.get_post_entries()
     analyzer.analyize_entries() # Making analysis
 
     print "\nAnalysis:\n"
