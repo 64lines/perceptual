@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: latin-1 -*-
 import urllib
 import psycopg2
 from utils import get_file_lines
@@ -6,19 +8,18 @@ from settings import DB_HOST
 from settings import DB_USER
 from settings import DB_PASSWORD
 from settings import DB_INSTANCE
-from settings import DB_POST_FIELD
-from settings import DB_POST_TABLE
 from settings import NLTK_API_URL
 from settings import NEGATIVE_WORDS_PATH
 from settings import POSITIVE_WORDS_PATH
 from settings import QUERY_ENTRIES
+from settings import INSERT_ENTRY
+from settings import USE_DB
 
 # Post Object
 class Post:
     def __init__(self):
         self.id = 0
         self.post_text = ""
-        self.reviewed = ""
 
 # Database operations.
 class DatabaseManager:
@@ -46,12 +47,19 @@ class DatabaseManager:
         if self.connection:
             self.connection.commit()
 
+class FileManager():
+    def __init__(self, file_path):
+        self.file_path = file_path
+
+    def get_entries(self):
+        return get_file_lines(self.file_path)
+
 class PostManager:
     def add_analysis_record(self, id_post, polarity):
         db_manager = DatabaseManager()
         db_manager.open_connection()
 
-        record_insert = "insert into post_analysis (id_post, polarity)  values (%s, '%s')" % (id_post, polarity)
+        record_insert = INSERT_ENTRY % (id_post, polarity)
 
         cursor = db_manager.connection.cursor()
         cursor.execute(record_insert)
@@ -59,7 +67,7 @@ class PostManager:
         db_manager.commit()
         db_manager.close_connection()
 
-    def get_post_entries(self):
+    def get_entries(self):
         list_entries = []
 
         db_manager = DatabaseManager()
@@ -73,7 +81,6 @@ class PostManager:
             post = Post()
             post.id = row[0]
             post.post_text = row[1]
-            post.reviewed = row[2]
             list_entries.append(post)
 
         db_manager.close_connection()
@@ -85,19 +92,19 @@ class EmoticonAnalyzer:
     def __init__(self):
         self.__dict_emoticon = {
             "positive": [
-                ":-)", ":)", ":D", ":o)", ":]", ":3", ":c)",
-                ":>", "=]", "8)", "=)", ":}", ":^)", ":-D",
-                "8-D", "8D", "x-D", "xD", "X-D", "XD", "=-D",
-                "=D", "=-3", "=3", "B^D", ":-))", ":'-)",
+                ":-)", ":)", ":d", ":o)", ":]", ":3", ":c)",
+                ":>", "=]", "8)", "=)", ":}", ":^)", ":-d",
+                "8-d", "8d", "x-d", "xd", "x-d", "xd", "=-d",
+                "=d", "=-3", "=3", "b^d", ":-))", ":'-)",
                 ":')", ";-)", ";)", "*-)", "*)", ";-]", ";]",
-                ";D", ";^)", ":-,"
+                ";d", ";^)", ":-,", ":p"
             ],
             "negative": [
-                ":-||", ":-/", "D-:", ":-(", "D:", ":(", "Dx",
+                ":-||", ":-/", "d-:", ":-(", "d:", ":(", "dx",
                 ">:[", ":-(", ":(", ":-c", ":c", ":-<", ":<",
                 ":-[", ":[", ":{", ";(", ":-||", ":@", ">:(",
-                ":'-(", ":'(", ">:O", ":-O", ":O", ":-o", ":o",
-                "8-0", "O_O", "o-o", "O_o", "o_O", "o_o", "O-O"
+                ":'-(", ":'(", ">:o", ":-o", ":o", ":-o", ":o",
+                "8-0", "o_o", "o-o", "o_o", "o_o", "o_o", "o-o"
             ]
         }
 
@@ -129,13 +136,10 @@ class BagOfWordsAnalizer:
         self.list_negative_words = []
         self.__polarities = {
             "positive": 0,
-            "negative": 0,
-            "neutral": 0
+            "negative": 0
         }
 
     def analyze_text(self, text):
-        result = ""
-
         list_words = text.split(" ")
         for word in list_words:
             word = word.lower()
@@ -143,8 +147,6 @@ class BagOfWordsAnalizer:
                 self.__polarities["positive"] += 1
             elif word in self.list_negative_words:
                 self.__polarities["negative"] += 1
-            else:
-                self.__polarities["neutral"] += 1
 
         if self.__polarities["positive"] > self.__polarities["negative"]:
             result = "positive"
@@ -183,13 +185,18 @@ class OpinionMiningAnalyzer:
 
     def analyize_entries(self):
         for entry in self.list_entries:
-            text = entry.post_text
+            if USE_DB:
+                text = entry.post_text
+            else:
+                text = entry
+
             text = self.__format_text(text)
             polarity = self.make_analysis(text)
             print "[%s] - %s " % (polarity, text)
 
-            manager = PostManager()
-            manager.add_analysis_record(entry.id, polarity)
+            if USE_DB:
+                manager = PostManager()
+                manager.add_analysis_record(entry.id, polarity)
 
     def __format_text(self, text):
         text = text.strip().lower()

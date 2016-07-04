@@ -5,11 +5,17 @@ import sys
 from utils import get_file_lines
 from models import OpinionMiningAnalyzer
 from models import PostManager
+from models import FileManager
+from settings import USE_DB
 
 def main_exec():
-    post_manager = PostManager()
+    if USE_DB:
+        manager = PostManager()
+    else:
+        manager = FileManager("inputs/positive_tweets.txt")
+
     analyzer = OpinionMiningAnalyzer()
-    analyzer.list_entries = post_manager.get_post_entries()
+    analyzer.list_entries = manager.get_entries()
     analyzer.analyize_entries() # Making analysis
 
     print "\nAnalysis:\n"
