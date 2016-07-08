@@ -687,11 +687,8 @@ ennoblecer
 enorme
 enriquecimiento
 ensalzar
-enseÑar
-entender
-entendido
-entendimiento
-entraÑable
+enseñar
+entrañable
 entretenimiento
 entretiene
 entusiasmar
@@ -871,7 +868,6 @@ fructífero
 frugalidad
 fuerte
 fuerza
-fuerzas de paz
 futurista
 futuro
 gallardamente
@@ -1510,7 +1506,6 @@ remisión
 remunerado
 remunerar
 renacimiento
-rendición de cuentas
 renombre
 renovada
 renovar
@@ -1523,7 +1518,6 @@ respetable
 respeto
 respetuosamente
 respetuoso
-respetuoso de las leyes
 respiro
 resplandeciente
 resplandor
@@ -1549,8 +1543,6 @@ revoluciona
 revolucionará
 revolucionario
 revolucionó
-rica en características
-riesgo bajo
 riqueza
 risa
 risitas
@@ -1576,7 +1568,6 @@ salvador
 sano
 santidad
 santo
-satisfacción de sí mismo
 satisface
 satisfacer
 satisfactoria
@@ -1601,14 +1592,11 @@ sensacionalmente
 sensaciones
 sensatamente
 sensible
-sentirse bien
-ser visto
 serena
 serenidad
 seriedad
 servicio
 servir
-sexual expresión
 sí
 significado
 significativa
@@ -1619,19 +1607,6 @@ simplifica
 simplificación
 simplificado
 simplificar
-sin complicaciones
-sin dolor
-sin duda
-sin esfuerzo
-sin inmutarse
-sin límites
-sin miedo
-sin peaje
-sin problemas
-sin restricciones
-sin riesgo
-sin rival
-sin tiempo
 sinceramente
 sinceridad
 sincero
@@ -1648,7 +1623,6 @@ sólidamente
 solidaridad
 solidez
 soltura
-solucionador de problemas
 soÑador
 sonora
 sonreir
@@ -1684,8 +1658,6 @@ superadas
 superado
 superando
 superar
-superar a
-superior al mercado
 superioridad
 superó
 superpotencia
@@ -1700,7 +1672,6 @@ ser
 talento
 talentos
 tapado
--tema libre
 tenacidad
 tentación
 tentador
@@ -1709,21 +1680,16 @@ tentadoramente
 terapia
 tesoro
 tiempo
-tiene éxito
 tierra
 tipo
 tocado
 todo
-todo al rededor
 tolerancia
 toque
 trabajable
 trabajado
 trabajador
-trabajador de la luz
 trabajo
-trabajo duro
-trabajo en equipo
 tracción
 tradición
 tradicional
@@ -1745,14 +1711,11 @@ trofeo
 trompeta
 unidad
 unificación
-unificación de la mente
 uniformemente
 útil
 útiles
 utilidad
-vale la pena
 valentía
-valga la pena
 válido
 valiente
 valientemente
@@ -1787,7 +1750,6 @@ virtud
 virtuosamente
 virtuoso
 visible
-vision de la radiografía
 visionario
 vitalidad
 vivacidad
@@ -1800,3 +1762,5 @@ voluntariamente
 voto
 vulnerabilidad
 xenofilia
+único
+irrepetible

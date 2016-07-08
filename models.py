@@ -199,17 +199,12 @@ class OpinionMiningAnalyzer:
                 manager.add_analysis_record(entry.id, polarity)
 
     def __format_text(self, text):
+        chars_to_replace = ['#', '?', '!', '.', '\"', ',', '\'', '¿']
         text = text.strip().lower()
 
-        # Converting hashtag to text.
-        text = text.replace('#', '')
-
         # Removing literal marks.
-        text = text.replace('?', '')
-        text = text.replace('!', '')
-        text = text.replace('.', '')
-        text = text.replace(',', '')
-        text = text.replace('\"', '')
+        for char in chars_to_replace:
+            text = text.replace(char, '')
 
         text = self.__remove_links(text)
         text = self.__remove_mentions(text)
