@@ -17,4 +17,4 @@ DB_RESULTS_TABLE = ""
 
 # Queries
 UPDATE_ENTRY = "update vz_urbanatweet set polaridad='{1}' where t.urbanatweetid='{0}'"
-QUERY_ENTRIES = 'SELECT t.urbanatweetid, t.text_ FROM vz_urbanatweet t WHERE t.polaridad is not null'
+QUERY_ENTRIES = 'SELECT t.urbanatweetid, t.text_ FROM vz_urbanatweet t WHERE t.polaridad is null'
