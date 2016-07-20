@@ -2,19 +2,19 @@ NLTK_API_URL = "http://text-processing.com/api/sentiment/"
 POSITIVE_WORDS_PATH = "inputs/positive_words_es.txt"
 NEGATIVE_WORDS_PATH = "inputs/negative_words_es.txt"
 
-USE_DB=False
+USE_DB=True
 
 # Database connection info.
-DB_USER = "urbana"
+DB_USER = "postgres"
 DB_HOST = "localhost"
 DB_PORT = "5432"
-DB_PASSWORD = "urbana"
-DB_INSTANCE = "urbana_database"
-DB_POST_FIELD = "tweet"
-DB_POST_TABLE = "tweet_post"
+DB_PASSWORD = "liferay"
+DB_INSTANCE = "lportal"
+DB_POST_FIELD = "text_"
+DB_POST_TABLE = "vz_urbanatweet"
 DB_RESULTS_TABLE = ""
 
 
 # Queries
-INSERT_ENTRY = "insert into post_analysis (id_post, polarity)  values (%s, '%s')"
-QUERY_ENTRIES = 'SELECT t.id, t.tweet FROM tweet_post t WHERE t.id not in (SELECT a.id_post FROM post_analysis a)'
+UPDATE_ENTRY = "update vz_urbanatweet set polaridad='{1}' where t.urbanatweetid='{0}'"
+QUERY_ENTRIES = 'SELECT t.urbanatweetid, t.text_ FROM vz_urbanatweet t WHERE t.polaridad is not null'

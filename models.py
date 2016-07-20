@@ -12,7 +12,7 @@ from settings import NLTK_API_URL
 from settings import NEGATIVE_WORDS_PATH
 from settings import POSITIVE_WORDS_PATH
 from settings import QUERY_ENTRIES
-from settings import INSERT_ENTRY
+from settings import UPDATE_ENTRY
 from settings import USE_DB
 
 # Post Object
@@ -59,10 +59,10 @@ class PostManager:
         db_manager = DatabaseManager()
         db_manager.open_connection()
 
-        record_insert = INSERT_ENTRY % (id_post, polarity)
+        record_update = UPDATE_ENTRY.format(id_post, polarity)
 
         cursor = db_manager.connection.cursor()
-        cursor.execute(record_insert)
+        cursor.execute(record_update)
 
         db_manager.commit()
         db_manager.close_connection()
