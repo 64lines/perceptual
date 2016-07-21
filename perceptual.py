@@ -12,7 +12,7 @@ def main_exec():
     if USE_DB:
         manager = PostManager()
     else:
-        manager = FileManager("inputs/negative_tweets.txt")
+        manager = FileManager("inputs/example_tweets.txt")
 
     analyzer = OpinionMiningAnalyzer()
     analyzer.list_entries = manager.get_entries()

@@ -1,1122 +1,193 @@
-An Introduction to Useful Bash Aliases and Functions https://t.co/vpbzDqqpER #programming #coding #bash
-How To Become A CIO or CTO https://t.co/ujmSWNcfAU #cio #cto #software #engineering #programming #it
-Emerging Information Technology Techniques Trends for 2016 https://t.co/6tw2FaIZ8W #technology #frameworks #software #SoftwareEngineering
-Emerging Information Technology Tools Trends for 2016 https://t.co/bqwDZviVyJ #technology #frameworks #software #SoftwareEngineering
-Emerging Platforms Trends for 2016 https://t.co/8V3CynFqM8 #programming #frameworks #software #SoftwareEngineering
-Emerging Language and Frameworks Trends for 2016 https://t.co/w94VI3EDyb #technology #frameworks #software #SoftwareEngineering
-Batman: The Dark Knight (2008) - Interrogation Scene https://t.co/hPfj2PFl5m #MyFavoriteMovieScenes
-The Matrix (1999) - Agent Smith Interview. https://t.co/NkI5bacfxU #MyFavoriteMovieScenes
-General Zod's Trial - Man of Steel, Amazing performance of the actor Michael Shannon. https://t.co/m5NxQci6iM #MyFavoriteMovieScenes
-Stop Trying To Be Happy https://t.co/d3aqqPh3dI vÃ­a @IAmMarkManson
-This is the place YouTubers get the indie music for their videos, it has a very cool music player too https://t.co/g6RnovSht5
-RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
-Doctor Who - If I see one more gun https://t.co/yBJBdF39KG vÃ­a @YouTube
-How to Encourage The Evolution of Your Brain, with Rudolph Tanzi https://t.co/ht5LlPMcNH vÃ­a @YouTube
-D3.js - Data-Driven Documents https://t.co/HCXIfDe8bX https://t.co/pyfiKDCAYL
-15 Papers you should read when interested in node.js's background https://t.co/UzAJOSKOTu #javascript #nodejs #research
-RT @reinink: There are only THREE hard things in Computer Science: cache invalidation, naming things, and database schema changes.
-Out-Oh-Mat - Brainstorm | textmode https://t.co/vKyYedkKhh vÃ­a @YouTube
-jQuery Tips Everyone Should Know https://t.co/bGMvQkJ8DL #jquery #javascript #programming #coding #html5
-obsidian by xplsv https://t.co/ptPwkY0nzG #demoscene #javascript #webgl #coding #art
-Demoscene JavaScript https://t.co/ZCzTHEnSkj #demoscene #javascript #coding #computing #art
-Donâ€™t Be Scared Of Functional Programming https://t.co/YOOTmx7sSI #javascript #programming #FunctionalProgramming
-The Little JavaScripter https://t.co/pKFCpnxbT2 #javascript #coding #scheme #FunctionalProgramming
-How JavaScript Timers Work https://t.co/1tDE70qS15 #javascript #coding #programming
-Asynch JS: The Power Of $.Deferred https://t.co/zh4OjmJEBy #javascript #coding #programming
-Semantic UI 2.0 is out! https://t.co/vcPjBNNrEG vÃ­a @semanticui #html5 #javascript #semantic
-The Basics of Object-Oriented JavaScript https://t.co/VPdesQuhwu vÃ­a @tutsplus #javascript #coding #programming
-Object-oriented Programming https://t.co/2YG9184PGU #javascript #coding
-Cyclomatic complexity refactoring tips for javascript developers https://t.co/VUK3Q8ogfz #javascript #coding
-â€œAn Intro to Functional Programming Concepts in JavaScriptâ€ by @collardeau https://t.co/kUW20JAU8U #javascript #jquery #coding #FP
-6 Rules for Awesome Data Visualizations with Kendo UI - https://t.co/TSy3pPro29 #javascript #jquery #data #kendoUI
-Donâ€™t Return A JSON Document From The toJSON Method https://t.co/S7CMbkhsZu #jquery #javascript #json
-Detecting Online Status with JavaScript by @davidwalshblog https://t.co/DazzpcXDGx #javascript #jquery #code
-Genetic algorithm implementation in Javascript + Canvas https://t.co/xLhit2cpBk #algorithms #programming #javascript #canvas
-Chrome Experiments, several amazing web projects based on chrome technologies https://t.co/Je3enwYKto #javascript #webgl #gamedev
-Algorithmic Art Galleries https://t.co/ruvmiO11Xm #programming #computing #art #code
-Gallery of Computation https://t.co/R2pwlys36y #programming #computing #art #code
-Displayhack: real-time graphics, visual arts, motion graphics and the demoscene https://t.co/ZB1LHIzq0C #programming #computing #art #code
-Art from code - Generator.x https://t.co/P5XNGwv4RE #programming #computing #art #code
-Generative Art Links https://t.co/pkDFAJeAAx #programming #computing #art #math
-Introduction to Object-Oriented JavaScript https://t.co/ZYAk1mU9x4 #javascript #programming #developers
-jQuery Coding Standards and Best Practices https://t.co/Cb3A0TzoUg vÃ­a @abhinay_rathore #jquery #javascript #coding #code
-HTML5 Game Engines, Which HTML5 Game Engine is right for you?https://t.co/2WFtWluCWb #javascript #gamedev #webgl #html5
-BabylonJS playground, JavaScript editor to test 3d features https://t.co/4ZPLrY4GwF #javascript #3d #gamedev #webgl
-BabylonJS, JavaScript library for 3D games https://t.co/F84BM74FOn #javascript #3d #gamedev #webgl
-Android/Java: JSON HTTP Request https://t.co/7NmzYgMItq #java #android #json
-Using HTTP requests to get JSON objects in Android https://t.co/qg0QeNWupL #android #code #programming #json
-RT @javinpaul: 10 Programming Best Practices to Name Variables https://t.co/TfZaozpUoI #Java #programming https://t.co/mA1qNqthi4
-RT @SciencePorn: The future has arrived #BackToTheFuture #MartyMcFly https://t.co/VZcoMIojam
-Request JSON Android https://t.co/01vG4gXsqx #android #json
-Android JSON Parser https://t.co/8mgSDnlSyQ #android #json
-Agar.io clone written with Socket.IO and HTML5 canvas https://t.co/wQ36pRgPzr #javascript #jquery #nodejs #html5games #html5
-Including Javascript Libraries using Javascript itself https://t.co/FtRIaSjh0K #javascript #jquery #code
-VIM configuration for happy Java coding https://t.co/OzB8PKnOjp #java #programming #vim
-How to Become a JavaScript Badass https://t.co/ium5d9Inng #javascript #code #jQuery
-Mobile advertising DDoS JavaScript drip serves site with 4.5bn hits https://t.co/KeehINSsnj vÃ­a @theregister #javascript #security
-The programming and engineering skills with the highest salaries https://t.co/vHCA0fP5oO vÃ­a @bi_contributors #java #javascript #python #c
-JavaScript Goes Asynchronous (and Itâ€™s Awesome) https://t.co/KU4A0yWsC2 vÃ­a @sitepointdotcom #javascript #jquery
-THE BASS IS FOOKING RAW! https://t.co/ksvb8AtEsC vÃ­a @YouTube #funny
-Bane - What's that Song? https://t.co/laX3wkfdmJ vÃ­a @YouTube #funny
-'REDNECK AVENGERS: TULSA NIGHTS' â€” A Bad Lip Reading of Marvel's The Ave... https://t.co/nznYQCM7IL vÃ­a @YouTube #funny
-https://t.co/xEAoACQWPP The second answer is the answer #java #eclipse #tips
-Awesome! https://t.co/t76Bp4R9sC
-Everything Wrong With Avengers: Age of Ultron https://t.co/5RiTFVItWL vÃ­a @YouTube #cinemasins
-Star Wars: The Force Awakens Last Trailer (Official) #starwars https://t.co/QK2n3rIXMZ vÃ­a @YouTube
-I think this is the best motivational video ever! https://t.co/AE0COWKwih #motivation
-Just updated ienai news code, take a look at it and tell me what do you think about it https://t.co/cmcyoIQPjw #jquery #javascript
-.Ieanai news - Read news quickly http://t.co/nRcibeV7Kq #news #javascript #jquery #programming
-Rachel will allow you generate forms using only jQuery and JSON without HTML. https://t.co/20vefJHemD  #javascript #jquery #html5
-RT @9GAG: George Carlin, also one of the best comedians!  http://t.co/WdeEIiyQIH http://t.co/CQyVuZzE5v
-When I'm stuck in something and turn to see what senior developer is doing http://t.co/EHbJ1znE3u
-I love internet :D https://t.co/ksvb8AtEsC vÃ­a @YouTube
-RT @SciencePorn: By balancing temperature, humidity and lighting, a Dutch artist created a cloud in the middle of a room. http://t.co/o8y3Uâ€¦
-Terminator Genisys: Creating a Fully Digital Schwarzenegger https://t.co/2rUGgNoXMC vÃ­a @YouTube
-Wood burning With Lightning. Lichtenberg Figures! https://t.co/NhoIIQgS1U vÃ­a @YouTube
-Acoustic levitation https://t.co/VtMmnFPL2W vÃ­a @YouTube
-Want to play sports? let's sweat those neurons https://t.co/VcZAosLgVH #programming #coding #algorithms
-@NASA @MarsCuriosity Amazing video guys, nice job!
-This is a pretty cool video @NASA good work! https://t.co/RcT7AjqES6
-How those super-heroes make their work, YouTrack - The Art of Bug Tracking https://t.co/CgGFHoZ4Ho vÃ­a @YouTube #programming
-15 Fun Ways to Practice the Foreign Language You Are Studying http://t.co/Q0hWAqpY8E #languages
-I'm enjoying 'Blue Silence - Joan (Cloudwalker Remix)' on the Epic Trance channel at @diradio http://t.co/xZNmLybYwO
-How competitive in programming is your country http://t.co/IFXIrkwIEO #programming #algorithms #technology #problemsolving
-I can't hold it anymore! #algorithms http://t.co/OQpK2wS5Gi
-Regina Spektor - Oh Marcello https://t.co/r5JmZxtXnW vÃ­a @YouTube #music
-Programming is a sport too, if you want to practice it this is a good way to start http://t.co/LoPwvcee4m #programming #mindsport
-RT @SciencePorn: SPACEPORN: Milky Way behind the Ocotillo wind farm, California. Photo by Michael Shainblum http://t.co/BmgCjdBqzC
-The Importance of Algorithms https://t.co/VNvtIFBzuf by @topcoder #algorithms
-Snoop Dogg &amp; The Doors - Riders On The Storm, for those memories https://t.co/RjseBGJw1g vÃ­a @YouTube #tbt #gaming
-Mr. Mister - Broken Wings, remember the 80's? https://t.co/Z3C0CEnTGQ vÃ­a @YouTube #tbt #music
-Events of all Nov/11 (11/11) in history https://t.co/NA7SQqK56F #curiosity #numbers #facts
-The GTA 3 web page is still alive and operative, take a look: http://t.co/vavfKEKYfj #gaming #gta
-Solve some algorithmic problems to refresh your head this weekend http://t.co/S2GijuePSA #algorithms #math #programming
-Input/output with files in C++ http://t.co/aU3HAxnNWN
-Is Zero Even? https://t.co/uz2anvFkLP vÃ­a @YouTube
-If you still don't see the pattern, you need more numbers... #math #computing
-List of amateur mathematicians #math #amateur https://t.co/RPKGgKF9AI
-Science degree #math #comics http://t.co/hKVCRNvQge
-The Religious Affiliation of the 100 Greatest Rock Musicians http://t.co/uJcy7yTv9y
-Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014 https://t.co/3oE4i4b12j vÃ­a @YouTube
-11.11.11 - Numberphile https://t.co/jv9MGv2x8V vÃ­a @YouTube
-Need For Speed Underground 2 Soundtrack https://t.co/VUriLfWLS3 vÃ­a @YouTube
-Geek or Nerd ? What's the difference? | NumberHub with Hannah Fry |  Hea... https://t.co/5hxKO3yEoF via @YouTube
-Why Write Your Own Book When An Algorithm Can Do It For You?http://t.co/5G6eT7Il8i
-Who is Cortana? http://t.co/w7UVBGNmq8
-RT @SciencePorn: Science class for teenagers http://t.co/TinNQwzTm1
-Stephen Wolfram Says He Has An Algorithm For Life, The Universe And Everything. Literally! http://t.co/bQaoheX6ki #math #compsci
-RT @SciencePorn: This apple hasn't got time for your silly science experiments http://t.co/3CeGnNqtko
-I love it! https://t.co/mOLUbLnJFC
-The Unlogical: 5 Amazing Data Structures http://t.co/h5ZX59omlR
-My new JavaScript application made in 3 days, 'Hummingbird' https://t.co/GJ0H7XdNs5 #javascript #webdevelopment #programming
-My new JavaScript library in just 5 hours... https://t.co/JAAowWR2P7 #javascript #programming #webdevelopment
-Farthest journey by hoverboard - Guinness World Records https://t.co/4XJflIG23C via @YouTube
-Full Gangnam Style video animated in paper https://t.co/mWtbhCCg1V vÃ­a @YouTube
-Las voces de los libros que hemos leÃ­do resuenan dentro de nosotros mismos #libros #Literatura
-Jennifer Lopez - If You Had My Love (Official Video) https://t.co/gF7J67hLO6 via @YouTube #TBT
-Enrique Iglesias - Bailamos https://t.co/GIUwDqF7JE via @YouTube #TBT
-How Old Do I Look http://t.co/PtSiLwlimm #app #Microsoft #HowOldDoILook
-Flight Arcade http://t.co/tpxlO5V06y #games #Microsoft
-Mainfold JS: The simplest way to create hosted apps across platforms and devices http://t.co/EOHlLUzNWH
-Android Blog:  Android Wear http://t.co/3aWnsxilAB via @android
-Microsoft HoloLens: A Close Look at the Hardware https://t.co/kIZPxJOz09 via @YouTube #tech
-Introducing Microsoft Edge: The New Windows 10 Browser https://t.co/IGlbE7fkAH via @YouTube #tech
-HEXO+: Your Autonomous Aerial Camera - Drone https://t.co/Bl5QSras9v https://t.co/Tv5xTcYs4l http://t.co/r45j9qAujW
-Lee los primeros capÃ­tulos libro de ciencia ficciÃ³n 'Taneq La' #scifi #CienciaFiccion #Libros #leer http://t.co/cdZUm0otXD
-Batman v Superman: Dawn of Justice - Official Teaser Trailer [HD] https://t.co/fL19NWmybX via @YouTube
-I saw a life flash before me in 60 seconds. Itâ€™s your turn to play! #InteractiveHaiku via @TheNFB and @ARTEfr: http://t.co/9m2LIoJLJp
-RT @NASA: All weekend, weâ€™re celebrating 25 years of @NASA_Hubble on our @NASA Instagram: http://t.co/s3ME54anPZ #Hubble25 http://t.co/8QIfâ€¦
-If you want to learn to meditate correctly, these are some good instructions to start. https://t.co/Urq28Bh2ff via @YouTube #meditation
-RT @WIRED: Review: The new MacBook can't do much, but soon that'll be enough http://t.co/LqE1wYfSvq http://t.co/rar5n4Sqw9
-'@newsycombinator: Microsoft seeks to recruit autistic workers http://t.co/iueUGouib3' what?
-RT @TechCrunch: Instagram adds new photo editing tools and post notifications http://t.co/8qvTFWWZOq http://t.co/SLDm1hqRBz
-Views in Google Maps, so cool https://t.co/jaHTemevVo #WebApps #Google #technology http://t.co/8xamvBgd5p
-RT @TechCrunch: Apple Patents Learning Computer Vision For Gesture Control http://t.co/nVHS3MPX09 by @etherington http://t.co/8jZRKtiv4M
-@shanselman hahahaha good one
-RT @TeamToFollow: Researchers build aluminum battery that can be charged in one minute http://t.co/VapMU3ny7N
-RT @OleMissRebels: Remember Pac-Man? Now you can play it on campus, courtesy @googlemaps! Check it out http://t.co/7lsMoijf01
-@unbrelievable Hi Breanna, I have two questions for you, Do you write some code in your free time? What keep you motivated? Have a nice day.
-@heatherpayne Hi Heather, I have a couple of questions for you, Do you make programs in your free time? What keep you motivated? Thanks
-@pablos Hi Pablos, I have two questions for you. What keep you motivated? and What is better, useful ideas or fun ideas?. Have a nice day
-This is a very nice blog to check out: http://t.co/oEKyPZ5HPT #programming
-What? O_O The Time Traveller: https://t.co/lkVpyzognk #timetravel
-@codekat @dajbelshaw Hahahahaha, that's funny
-RT @gregsramblings: In honor of #PiDay, @saturnism &amp; I computed 100billion digits of Pi on 32vCPU/208GB @GoogleCloud VM 5.3hrs! Blog soon hâ€¦
-Incredible! 57 story building constructed in just 19 days in China https://t.co/jyoOq7D6wA #china #engineering
-Ok, this is awesome #n64memories http://t.co/iinFmhP6ds
-RT @newsycombinator: The new MacBook https://t.co/UxGCxQUfXJ
-RT @newsycombinator: Java Runtime updater now installs http://t.co/NsTADda1cy toolbar on macs https://t.co/HzDFd8ct1l
-This is a very good tutorial to build mental palaces #Memory http://t.co/Tn0cYv5yGi
-The next Marvel movies #marvel #movies @Marvel http://t.co/sxAYef0aic
-A little of social network photography. #photography #blackandwhite http://t.co/JKvH2BxaIb
-RT @newsycombinator: Gg â€“ Git Shortcuts, Colored Outputs, and More https://t.co/OhpsPfwvmY
-Amazing Ghost in the Shell landscapes #Anime #Landscape http://t.co/HDabt39l6t
-Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: http://t.co/ZHhBKrc3BD via @YouTube
-How to become a memory master | Idriz Zogaj | TEDxGoteborg: http://t.co/8uUx9zBjMX #Mnemotechnique
-The art of memory: Daniel Kilov at TEDxMacquarieUniversity: http://t.co/LIBfXZeanS #Mnemotechnique
-Memory Technique #2   How to Make Images Interesting: http://t.co/055ky0w6M0 #Memory
-Memory Technique #1: The Memory Palace: http://t.co/Kz0zRFRAVT via @YouTube #Memory
-RT @newsycombinator: Windows 93 in JavaScript http://t.co/17uWYAkDLr?
-@newsycombinator This is really cool :D
-This is cool, Mental Athletes: The Sport of Memory: http://t.co/ktuDBOltyr http://t.co/YsFT2ZvROv
-RT @newsycombinator: The $5000 Compression Challenge http://t.co/qReeXLdRYD
-This video game blow my mind. FEZ: https://t.co/oKimUdZksX #fez http://t.co/Q4ELBc469m
-Abingdon Boys School - Nervous breakdown - [JAPAN TOUR '10] http://t.co/wbA0bhHkM6 #JapaneseMusic http://t.co/jptLoOXEXt
-Another amazing Russian song, Ð’ÐµÑ€Ð° Ð‘Ñ€ÐµÐ¶Ð½ÐµÐ²Ð° - Ð ÐµÐ°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ (Vera Brezhneva - Real Life): https://t.co/UuWTppFyKx http://t.co/A6h9YqOCST
-Hacked #Portal gun actually levitates a companion cube: http://t.co/vPKr9y5A9S #hack http://t.co/vMa9CqfX4Q
-From Pixels to Actions: Human-level control through Deep Reinforcement Learning http://t.co/KNxt1M7eRM via @googleresearch
-Typical Japanese streets #Japan http://t.co/V72i8NEDcJ
-For those people that haven't seen it: https://t.co/mFXxuBqGO5 #AgeOfUltron third trailer http://t.co/Z6V0qiXxFv
-This is an amazing vegan lunch, #Escalope #Quinoa http://t.co/aro9FepUQp
-What!? Google nutrition facts!? http://t.co/vCAP0Ez12Q
-This is the best electronic music radio I've ever heard http://t.co/kuy7EneZjf @difm http://t.co/m9k5beivWQ
-Ok, that was cool 'Furious 7 - Extended First Look (HD)' http://t.co/10Eq8vrXmY
-#MakeSomeonesDayIn3Words Be my friend
-#MakeAFirstDateWeirdIn4words You are my wallpaper
-This song is nice too, good job @off_vintage http://t.co/jIRM6356OY
-Interstellar, full cast and crew, the higher score on Sci-Fi movies category @IMDb http://t.co/JJeTs3j6fg
-ÐÐ½Ð¸ Ð›Ð¾Ñ€Ð°Ðº My favorite singer...  that voice... that face @AniLorak http://t.co/3YEAwNeqRx
-My favorite russian Pop song, ÐŸÐ¾Ð»Ð¸Ð½Ð° Ð“Ð°Ð³Ð°Ñ€Ð¸Ð½Ð° - Ð¡Ð¿ÐµÐºÑ‚Ð°ÐºÐ»ÑŒ Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½: http://t.co/filjNBUW20?
-A true programmer don't create little applications, a true programmer create autonomous machines.
-Â¿How far can your mind reach? A well-trained mind can from play music to simulate videogames on it.
-Trick: If you sleep with classical music in background, seems you are sleeping longer that before, even if you only sleep two hours
-There is no time, because time is relative for everyone. If you don't have any way to see what time is it, your days will be longer
-Â¿What are you meant to be? Â¿What is your passion? #WhatIsYourPassion
-RT @IEEEorg: #TechFact: The 1st camera phone, the Sharp J-SH04, was released in Japan in 2000. http://t.co/LYiaGS2QeX
-It's not about money or be someone in life, it's about happiness
-The computers has capacity to be completely autonomous and independent. One day we will work together.
-An Introduction to Useful Bash Aliases and Functions https://t.co/vpbzDqqpER #programming #coding #bash
-How To Become A CIO or CTO https://t.co/ujmSWNcfAU #cio #cto #software #engineering #programming #it
-Emerging Information Technology Techniques Trends for 2016 https://t.co/6tw2FaIZ8W #technology #frameworks #software #SoftwareEngineering
-Emerging Information Technology Tools Trends for 2016 https://t.co/bqwDZviVyJ #technology #frameworks #software #SoftwareEngineering
-Emerging Platforms Trends for 2016 https://t.co/8V3CynFqM8 #programming #frameworks #software #SoftwareEngineering
-Emerging Language and Frameworks Trends for 2016 https://t.co/w94VI3EDyb #technology #frameworks #software #SoftwareEngineering
-Batman: The Dark Knight (2008) - Interrogation Scene https://t.co/hPfj2PFl5m #MyFavoriteMovieScenes
-The Matrix (1999) - Agent Smith Interview. https://t.co/NkI5bacfxU #MyFavoriteMovieScenes
-General Zod's Trial - Man of Steel, Amazing performance of the actor Michael Shannon. https://t.co/m5NxQci6iM #MyFavoriteMovieScenes
-Stop Trying To Be Happy https://t.co/d3aqqPh3dI vÃ­a @IAmMarkManson
-This is the place YouTubers get the indie music for their videos, it has a very cool music player too https://t.co/g6RnovSht5
-RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
-Doctor Who - If I see one more gun https://t.co/yBJBdF39KG vÃ­a @YouTube
-How to Encourage The Evolution of Your Brain, with Rudolph Tanzi https://t.co/ht5LlPMcNH vÃ­a @YouTube
-D3.js - Data-Driven Documents https://t.co/HCXIfDe8bX https://t.co/pyfiKDCAYL
-15 Papers you should read when interested in node.js's background https://t.co/UzAJOSKOTu #javascript #nodejs #research
-RT @reinink: There are only THREE hard things in Computer Science: cache invalidation, naming things, and database schema changes.
-Out-Oh-Mat - Brainstorm | textmode https://t.co/vKyYedkKhh vÃ­a @YouTube
-jQuery Tips Everyone Should Know https://t.co/bGMvQkJ8DL #jquery #javascript #programming #coding #html5
-obsidian by xplsv https://t.co/ptPwkY0nzG #demoscene #javascript #webgl #coding #art
-Demoscene JavaScript https://t.co/ZCzTHEnSkj #demoscene #javascript #coding #computing #art
-Donâ€™t Be Scared Of Functional Programming https://t.co/YOOTmx7sSI #javascript #programming #FunctionalProgramming
-The Little JavaScripter https://t.co/pKFCpnxbT2 #javascript #coding #scheme #FunctionalProgramming
-How JavaScript Timers Work https://t.co/1tDE70qS15 #javascript #coding #programming
-Asynch JS: The Power Of $.Deferred https://t.co/zh4OjmJEBy #javascript #coding #programming
-Semantic UI 2.0 is out! https://t.co/vcPjBNNrEG vÃ­a @semanticui #html5 #javascript #semantic
-The Basics of Object-Oriented JavaScript https://t.co/VPdesQuhwu vÃ­a @tutsplus #javascript #coding #programming
-Object-oriented Programming https://t.co/2YG9184PGU #javascript #coding
-Cyclomatic complexity refactoring tips for javascript developers https://t.co/VUK3Q8ogfz #javascript #coding
-â€œAn Intro to Functional Programming Concepts in JavaScriptâ€ by @collardeau https://t.co/kUW20JAU8U #javascript #jquery #coding #FP
-6 Rules for Awesome Data Visualizations with Kendo UI - https://t.co/TSy3pPro29 #javascript #jquery #data #kendoUI
-Donâ€™t Return A JSON Document From The toJSON Method https://t.co/S7CMbkhsZu #jquery #javascript #json
-Detecting Online Status with JavaScript by @davidwalshblog https://t.co/DazzpcXDGx #javascript #jquery #code
-Genetic algorithm implementation in Javascript + Canvas https://t.co/xLhit2cpBk #algorithms #programming #javascript #canvas
-Chrome Experiments, several amazing web projects based on chrome technologies https://t.co/Je3enwYKto #javascript #webgl #gamedev
-Algorithmic Art Galleries https://t.co/ruvmiO11Xm #programming #computing #art #code
-Gallery of Computation https://t.co/R2pwlys36y #programming #computing #art #code
-Displayhack: real-time graphics, visual arts, motion graphics and the demoscene https://t.co/ZB1LHIzq0C #programming #computing #art #code
-Art from code - Generator.x https://t.co/P5XNGwv4RE #programming #computing #art #code
-Generative Art Links https://t.co/pkDFAJeAAx #programming #computing #art #math
-Introduction to Object-Oriented JavaScript https://t.co/ZYAk1mU9x4 #javascript #programming #developers
-jQuery Coding Standards and Best Practices https://t.co/Cb3A0TzoUg vÃ­a @abhinay_rathore #jquery #javascript #coding #code
-HTML5 Game Engines, Which HTML5 Game Engine is right for you?https://t.co/2WFtWluCWb #javascript #gamedev #webgl #html5
-BabylonJS playground, JavaScript editor to test 3d features https://t.co/4ZPLrY4GwF #javascript #3d #gamedev #webgl
-BabylonJS, JavaScript library for 3D games https://t.co/F84BM74FOn #javascript #3d #gamedev #webgl
-Android/Java: JSON HTTP Request https://t.co/7NmzYgMItq #java #android #json
-Using HTTP requests to get JSON objects in Android https://t.co/qg0QeNWupL #android #code #programming #json
-RT @javinpaul: 10 Programming Best Practices to Name Variables https://t.co/TfZaozpUoI #Java #programming https://t.co/mA1qNqthi4
-RT @SciencePorn: The future has arrived #BackToTheFuture #MartyMcFly https://t.co/VZcoMIojam
-Request JSON Android https://t.co/01vG4gXsqx #android #json
-Android JSON Parser https://t.co/8mgSDnlSyQ #android #json
-Agar.io clone written with Socket.IO and HTML5 canvas https://t.co/wQ36pRgPzr #javascript #jquery #nodejs #html5games #html5
-Including Javascript Libraries using Javascript itself https://t.co/FtRIaSjh0K #javascript #jquery #code
-VIM configuration for happy Java coding https://t.co/OzB8PKnOjp #java #programming #vim
-How to Become a JavaScript Badass https://t.co/ium5d9Inng #javascript #code #jQuery
-Mobile advertising DDoS JavaScript drip serves site with 4.5bn hits https://t.co/KeehINSsnj vÃ­a @theregister #javascript #security
-The programming and engineering skills with the highest salaries https://t.co/vHCA0fP5oO vÃ­a @bi_contributors #java #javascript #python #c
-JavaScript Goes Asynchronous (and Itâ€™s Awesome) https://t.co/KU4A0yWsC2 vÃ­a @sitepointdotcom #javascript #jquery
-THE BASS IS FOOKING RAW! https://t.co/ksvb8AtEsC vÃ­a @YouTube #funny
-Bane - What's that Song? https://t.co/laX3wkfdmJ vÃ­a @YouTube #funny
-'REDNECK AVENGERS: TULSA NIGHTS' â€” A Bad Lip Reading of Marvel's The Ave... https://t.co/nznYQCM7IL vÃ­a @YouTube #funny
-https://t.co/xEAoACQWPP The second answer is the answer #java #eclipse #tips
-Awesome! https://t.co/t76Bp4R9sC
-Everything Wrong With Avengers: Age of Ultron https://t.co/5RiTFVItWL vÃ­a @YouTube #cinemasins
-Star Wars: The Force Awakens Last Trailer (Official) #starwars https://t.co/QK2n3rIXMZ vÃ­a @YouTube
-I think this is the best motivational video ever! https://t.co/AE0COWKwih #motivation
-Just updated ienai news code, take a look at it and tell me what do you think about it https://t.co/cmcyoIQPjw #jquery #javascript
-.Ieanai news - Read news quickly http://t.co/nRcibeV7Kq #news #javascript #jquery #programming
-Rachel will allow you generate forms using only jQuery and JSON without HTML. https://t.co/20vefJHemD  #javascript #jquery #html5
-RT @9GAG: George Carlin, also one of the best comedians!  http://t.co/WdeEIiyQIH http://t.co/CQyVuZzE5v
-When I'm stuck in something and turn to see what senior developer is doing http://t.co/EHbJ1znE3u
-I love internet :D https://t.co/ksvb8AtEsC vÃ­a @YouTube
-RT @SciencePorn: By balancing temperature, humidity and lighting, a Dutch artist created a cloud in the middle of a room. http://t.co/o8y3Uâ€¦
-Terminator Genisys: Creating a Fully Digital Schwarzenegger https://t.co/2rUGgNoXMC vÃ­a @YouTube
-Wood burning With Lightning. Lichtenberg Figures! https://t.co/NhoIIQgS1U vÃ­a @YouTube
-Acoustic levitation https://t.co/VtMmnFPL2W vÃ­a @YouTube
-Want to play sports? let's sweat those neurons https://t.co/VcZAosLgVH #programming #coding #algorithms
-@NASA @MarsCuriosity Amazing video guys, nice job!
-This is a pretty cool video @NASA good work! https://t.co/RcT7AjqES6
-How those super-heroes make their work, YouTrack - The Art of Bug Tracking https://t.co/CgGFHoZ4Ho vÃ­a @YouTube #programming
-15 Fun Ways to Practice the Foreign Language You Are Studying http://t.co/Q0hWAqpY8E #languages
-I'm enjoying 'Blue Silence - Joan (Cloudwalker Remix)' on the Epic Trance channel at @diradio http://t.co/xZNmLybYwO
-How competitive in programming is your country http://t.co/IFXIrkwIEO #programming #algorithms #technology #problemsolving
-I can't hold it anymore! #algorithms http://t.co/OQpK2wS5Gi
-Regina Spektor - Oh Marcello https://t.co/r5JmZxtXnW vÃ­a @YouTube #music
-Programming is a sport too, if you want to practice it this is a good way to start http://t.co/LoPwvcee4m #programming #mindsport
-RT @SciencePorn: SPACEPORN: Milky Way behind the Ocotillo wind farm, California. Photo by Michael Shainblum http://t.co/BmgCjdBqzC
-The Importance of Algorithms https://t.co/VNvtIFBzuf by @topcoder #algorithms
-Snoop Dogg &amp; The Doors - Riders On The Storm, for those memories https://t.co/RjseBGJw1g vÃ­a @YouTube #tbt #gaming
-Mr. Mister - Broken Wings, remember the 80's? https://t.co/Z3C0CEnTGQ vÃ­a @YouTube #tbt #music
-Events of all Nov/11 (11/11) in history https://t.co/NA7SQqK56F #curiosity #numbers #facts
-The GTA 3 web page is still alive and operative, take a look: http://t.co/vavfKEKYfj #gaming #gta
-Solve some algorithmic problems to refresh your head this weekend http://t.co/S2GijuePSA #algorithms #math #programming
-Input/output with files in C++ http://t.co/aU3HAxnNWN
-Is Zero Even? https://t.co/uz2anvFkLP vÃ­a @YouTube
-If you still don't see the pattern, you need more numbers... #math #computing
-List of amateur mathematicians #math #amateur https://t.co/RPKGgKF9AI
-Science degree #math #comics http://t.co/hKVCRNvQge
-The Religious Affiliation of the 100 Greatest Rock Musicians http://t.co/uJcy7yTv9y
-Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014 https://t.co/3oE4i4b12j vÃ­a @YouTube
-11.11.11 - Numberphile https://t.co/jv9MGv2x8V vÃ­a @YouTube
-Need For Speed Underground 2 Soundtrack https://t.co/VUriLfWLS3 vÃ­a @YouTube
-Geek or Nerd ? What's the difference? | NumberHub with Hannah Fry |  Hea... https://t.co/5hxKO3yEoF via @YouTube
-Why Write Your Own Book When An Algorithm Can Do It For You?http://t.co/5G6eT7Il8i
-Who is Cortana? http://t.co/w7UVBGNmq8
-RT @SciencePorn: Science class for teenagers http://t.co/TinNQwzTm1
-Stephen Wolfram Says He Has An Algorithm For Life, The Universe And Everything. Literally! http://t.co/bQaoheX6ki #math #compsci
-RT @SciencePorn: This apple hasn't got time for your silly science experiments http://t.co/3CeGnNqtko
-I love it! https://t.co/mOLUbLnJFC
-The Unlogical: 5 Amazing Data Structures http://t.co/h5ZX59omlR
-My new JavaScript application made in 3 days, 'Hummingbird' https://t.co/GJ0H7XdNs5 #javascript #webdevelopment #programming
-My new JavaScript library in just 5 hours... https://t.co/JAAowWR2P7 #javascript #programming #webdevelopment
-Farthest journey by hoverboard - Guinness World Records https://t.co/4XJflIG23C via @YouTube
-Full Gangnam Style video animated in paper https://t.co/mWtbhCCg1V vÃ­a @YouTube
-Las voces de los libros que hemos leÃ­do resuenan dentro de nosotros mismos #libros #Literatura
-Jennifer Lopez - If You Had My Love (Official Video) https://t.co/gF7J67hLO6 via @YouTube #TBT
-Enrique Iglesias - Bailamos https://t.co/GIUwDqF7JE via @YouTube #TBT
-How Old Do I Look http://t.co/PtSiLwlimm #app #Microsoft #HowOldDoILook
-Flight Arcade http://t.co/tpxlO5V06y #games #Microsoft
-Mainfold JS: The simplest way to create hosted apps across platforms and devices http://t.co/EOHlLUzNWH
-Android Blog:  Android Wear http://t.co/3aWnsxilAB via @android
-Microsoft HoloLens: A Close Look at the Hardware https://t.co/kIZPxJOz09 via @YouTube #tech
-Introducing Microsoft Edge: The New Windows 10 Browser https://t.co/IGlbE7fkAH via @YouTube #tech
-HEXO+: Your Autonomous Aerial Camera - Drone https://t.co/Bl5QSras9v https://t.co/Tv5xTcYs4l http://t.co/r45j9qAujW
-Lee los primeros capÃ­tulos libro de ciencia ficciÃ³n 'Taneq La' #scifi #CienciaFiccion #Libros #leer http://t.co/cdZUm0otXD
-Batman v Superman: Dawn of Justice - Official Teaser Trailer [HD] https://t.co/fL19NWmybX via @YouTube
-I saw a life flash before me in 60 seconds. Itâ€™s your turn to play! #InteractiveHaiku via @TheNFB and @ARTEfr: http://t.co/9m2LIoJLJp
-RT @NASA: All weekend, weâ€™re celebrating 25 years of @NASA_Hubble on our @NASA Instagram: http://t.co/s3ME54anPZ #Hubble25 http://t.co/8QIfâ€¦
-If you want to learn to meditate correctly, these are some good instructions to start. https://t.co/Urq28Bh2ff via @YouTube #meditation
-RT @WIRED: Review: The new MacBook can't do much, but soon that'll be enough http://t.co/LqE1wYfSvq http://t.co/rar5n4Sqw9
-'@newsycombinator: Microsoft seeks to recruit autistic workers http://t.co/iueUGouib3' what?
-RT @TechCrunch: Instagram adds new photo editing tools and post notifications http://t.co/8qvTFWWZOq http://t.co/SLDm1hqRBz
-Views in Google Maps, so cool https://t.co/jaHTemevVo #WebApps #Google #technology http://t.co/8xamvBgd5p
-RT @TechCrunch: Apple Patents Learning Computer Vision For Gesture Control http://t.co/nVHS3MPX09 by @etherington http://t.co/8jZRKtiv4M
-@shanselman hahahaha good one
-RT @TeamToFollow: Researchers build aluminum battery that can be charged in one minute http://t.co/VapMU3ny7N
-RT @OleMissRebels: Remember Pac-Man? Now you can play it on campus, courtesy @googlemaps! Check it out http://t.co/7lsMoijf01
-@unbrelievable Hi Breanna, I have two questions for you, Do you write some code in your free time? What keep you motivated? Have a nice day.
-@heatherpayne Hi Heather, I have a couple of questions for you, Do you make programs in your free time? What keep you motivated? Thanks
-@pablos Hi Pablos, I have two questions for you. What keep you motivated? and What is better, useful ideas or fun ideas?. Have a nice day
-This is a very nice blog to check out: http://t.co/oEKyPZ5HPT #programming
-What? O_O The Time Traveller: https://t.co/lkVpyzognk #timetravel
-@codekat @dajbelshaw Hahahahaha, that's funny
-RT @gregsramblings: In honor of #PiDay, @saturnism &amp; I computed 100billion digits of Pi on 32vCPU/208GB @GoogleCloud VM 5.3hrs! Blog soon hâ€¦
-Incredible! 57 story building constructed in just 19 days in China https://t.co/jyoOq7D6wA #china #engineering
-Ok, this is awesome #n64memories http://t.co/iinFmhP6ds
-RT @newsycombinator: The new MacBook https://t.co/UxGCxQUfXJ
-RT @newsycombinator: Java Runtime updater now installs http://t.co/NsTADda1cy toolbar on macs https://t.co/HzDFd8ct1l
-This is a very good tutorial to build mental palaces #Memory http://t.co/Tn0cYv5yGi
-The next Marvel movies #marvel #movies @Marvel http://t.co/sxAYef0aic
-A little of social network photography. #photography #blackandwhite http://t.co/JKvH2BxaIb
-RT @newsycombinator: Gg â€“ Git Shortcuts, Colored Outputs, and More https://t.co/OhpsPfwvmY
-Amazing Ghost in the Shell landscapes #Anime #Landscape http://t.co/HDabt39l6t
-Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: http://t.co/ZHhBKrc3BD via @YouTube
-How to become a memory master | Idriz Zogaj | TEDxGoteborg: http://t.co/8uUx9zBjMX #Mnemotechnique
-The art of memory: Daniel Kilov at TEDxMacquarieUniversity: http://t.co/LIBfXZeanS #Mnemotechnique
-Memory Technique #2   How to Make Images Interesting: http://t.co/055ky0w6M0 #Memory
-Memory Technique #1: The Memory Palace: http://t.co/Kz0zRFRAVT via @YouTube #Memory
-RT @newsycombinator: Windows 93 in JavaScript http://t.co/17uWYAkDLr?
-@newsycombinator This is really cool :D
-This is cool, Mental Athletes: The Sport of Memory: http://t.co/ktuDBOltyr http://t.co/YsFT2ZvROv
-RT @newsycombinator: The $5000 Compression Challenge http://t.co/qReeXLdRYD
-This video game blow my mind. FEZ: https://t.co/oKimUdZksX #fez http://t.co/Q4ELBc469m
-Abingdon Boys School - Nervous breakdown - [JAPAN TOUR '10] http://t.co/wbA0bhHkM6 #JapaneseMusic http://t.co/jptLoOXEXt
-Another amazing Russian song, Ð’ÐµÑ€Ð° Ð‘Ñ€ÐµÐ¶Ð½ÐµÐ²Ð° - Ð ÐµÐ°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ (Vera Brezhneva - Real Life): https://t.co/UuWTppFyKx http://t.co/A6h9YqOCST
-Hacked #Portal gun actually levitates a companion cube: http://t.co/vPKr9y5A9S #hack http://t.co/vMa9CqfX4Q
-From Pixels to Actions: Human-level control through Deep Reinforcement Learning http://t.co/KNxt1M7eRM via @googleresearch
-Typical Japanese streets #Japan http://t.co/V72i8NEDcJ
-For those people that haven't seen it: https://t.co/mFXxuBqGO5 #AgeOfUltron third trailer http://t.co/Z6V0qiXxFv
-This is an amazing vegan lunch, #Escalope #Quinoa http://t.co/aro9FepUQp
-What!? Google nutrition facts!? http://t.co/vCAP0Ez12Q
-This is the best electronic music radio I've ever heard http://t.co/kuy7EneZjf @difm http://t.co/m9k5beivWQ
-Ok, that was cool 'Furious 7 - Extended First Look (HD)' http://t.co/10Eq8vrXmY
-#MakeSomeonesDayIn3Words Be my friend
-#MakeAFirstDateWeirdIn4words You are my wallpaper
-This song is nice too, good job @off_vintage http://t.co/jIRM6356OY
-Interstellar, full cast and crew, the higher score on Sci-Fi movies category @IMDb http://t.co/JJeTs3j6fg
-ÐÐ½Ð¸ Ð›Ð¾Ñ€Ð°Ðº My favorite singer...  that voice... that face @AniLorak http://t.co/3YEAwNeqRx
-My favorite russian Pop song, ÐŸÐ¾Ð»Ð¸Ð½Ð° Ð“Ð°Ð³Ð°Ñ€Ð¸Ð½Ð° - Ð¡Ð¿ÐµÐºÑ‚Ð°ÐºÐ»ÑŒ Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½: http://t.co/filjNBUW20?
-A true programmer don't create little applications, a true programmer create autonomous machines.
-Â¿How far can your mind reach? A well-trained mind can from play music to simulate videogames on it.
-Trick: If you sleep with classical music in background, seems you are sleeping longer that before, even if you only sleep two hours
-There is no time, because time is relative for everyone. If you don't have any way to see what time is it, your days will be longer
-Â¿What are you meant to be? Â¿What is your passion? #WhatIsYourPassion
-RT @IEEEorg: #TechFact: The 1st camera phone, the Sharp J-SH04, was released in Japan in 2000. http://t.co/LYiaGS2QeX
-It's not about money or be someone in life, it's about happiness
-The computers has capacity to be completely autonomous and independent. One day we will work together.
-An Introduction to Useful Bash Aliases and Functions https://t.co/vpbzDqqpER #programming #coding #bash
-How To Become A CIO or CTO https://t.co/ujmSWNcfAU #cio #cto #software #engineering #programming #it
-Emerging Information Technology Techniques Trends for 2016 https://t.co/6tw2FaIZ8W #technology #frameworks #software #SoftwareEngineering
-Emerging Information Technology Tools Trends for 2016 https://t.co/bqwDZviVyJ #technology #frameworks #software #SoftwareEngineering
-Emerging Platforms Trends for 2016 https://t.co/8V3CynFqM8 #programming #frameworks #software #SoftwareEngineering
-Emerging Language and Frameworks Trends for 2016 https://t.co/w94VI3EDyb #technology #frameworks #software #SoftwareEngineering
-Batman: The Dark Knight (2008) - Interrogation Scene https://t.co/hPfj2PFl5m #MyFavoriteMovieScenes
-The Matrix (1999) - Agent Smith Interview. https://t.co/NkI5bacfxU #MyFavoriteMovieScenes
-General Zod's Trial - Man of Steel, Amazing performance of the actor Michael Shannon. https://t.co/m5NxQci6iM #MyFavoriteMovieScenes
-Stop Trying To Be Happy https://t.co/d3aqqPh3dI vÃ­a @IAmMarkManson
-This is the place YouTubers get the indie music for their videos, it has a very cool music player too https://t.co/g6RnovSht5
-RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
-Doctor Who - If I see one more gun https://t.co/yBJBdF39KG vÃ­a @YouTube
-How to Encourage The Evolution of Your Brain, with Rudolph Tanzi https://t.co/ht5LlPMcNH vÃ­a @YouTube
-D3.js - Data-Driven Documents https://t.co/HCXIfDe8bX https://t.co/pyfiKDCAYL
-15 Papers you should read when interested in node.js's background https://t.co/UzAJOSKOTu #javascript #nodejs #research
-RT @reinink: There are only THREE hard things in Computer Science: cache invalidation, naming things, and database schema changes.
-Out-Oh-Mat - Brainstorm | textmode https://t.co/vKyYedkKhh vÃ­a @YouTube
-jQuery Tips Everyone Should Know https://t.co/bGMvQkJ8DL #jquery #javascript #programming #coding #html5
-obsidian by xplsv https://t.co/ptPwkY0nzG #demoscene #javascript #webgl #coding #art
-Demoscene JavaScript https://t.co/ZCzTHEnSkj #demoscene #javascript #coding #computing #art
-Donâ€™t Be Scared Of Functional Programming https://t.co/YOOTmx7sSI #javascript #programming #FunctionalProgramming
-The Little JavaScripter https://t.co/pKFCpnxbT2 #javascript #coding #scheme #FunctionalProgramming
-How JavaScript Timers Work https://t.co/1tDE70qS15 #javascript #coding #programming
-Asynch JS: The Power Of $.Deferred https://t.co/zh4OjmJEBy #javascript #coding #programming
-Semantic UI 2.0 is out! https://t.co/vcPjBNNrEG vÃ­a @semanticui #html5 #javascript #semantic
-The Basics of Object-Oriented JavaScript https://t.co/VPdesQuhwu vÃ­a @tutsplus #javascript #coding #programming
-Object-oriented Programming https://t.co/2YG9184PGU #javascript #coding
-Cyclomatic complexity refactoring tips for javascript developers https://t.co/VUK3Q8ogfz #javascript #coding
-â€œAn Intro to Functional Programming Concepts in JavaScriptâ€ by @collardeau https://t.co/kUW20JAU8U #javascript #jquery #coding #FP
-6 Rules for Awesome Data Visualizations with Kendo UI - https://t.co/TSy3pPro29 #javascript #jquery #data #kendoUI
-Donâ€™t Return A JSON Document From The toJSON Method https://t.co/S7CMbkhsZu #jquery #javascript #json
-Detecting Online Status with JavaScript by @davidwalshblog https://t.co/DazzpcXDGx #javascript #jquery #code
-Genetic algorithm implementation in Javascript + Canvas https://t.co/xLhit2cpBk #algorithms #programming #javascript #canvas
-Chrome Experiments, several amazing web projects based on chrome technologies https://t.co/Je3enwYKto #javascript #webgl #gamedev
-Algorithmic Art Galleries https://t.co/ruvmiO11Xm #programming #computing #art #code
-Gallery of Computation https://t.co/R2pwlys36y #programming #computing #art #code
-Displayhack: real-time graphics, visual arts, motion graphics and the demoscene https://t.co/ZB1LHIzq0C #programming #computing #art #code
-Art from code - Generator.x https://t.co/P5XNGwv4RE #programming #computing #art #code
-Generative Art Links https://t.co/pkDFAJeAAx #programming #computing #art #math
-Introduction to Object-Oriented JavaScript https://t.co/ZYAk1mU9x4 #javascript #programming #developers
-jQuery Coding Standards and Best Practices https://t.co/Cb3A0TzoUg vÃ­a @abhinay_rathore #jquery #javascript #coding #code
-HTML5 Game Engines, Which HTML5 Game Engine is right for you?https://t.co/2WFtWluCWb #javascript #gamedev #webgl #html5
-BabylonJS playground, JavaScript editor to test 3d features https://t.co/4ZPLrY4GwF #javascript #3d #gamedev #webgl
-BabylonJS, JavaScript library for 3D games https://t.co/F84BM74FOn #javascript #3d #gamedev #webgl
-Android/Java: JSON HTTP Request https://t.co/7NmzYgMItq #java #android #json
-Using HTTP requests to get JSON objects in Android https://t.co/qg0QeNWupL #android #code #programming #json
-RT @javinpaul: 10 Programming Best Practices to Name Variables https://t.co/TfZaozpUoI #Java #programming https://t.co/mA1qNqthi4
-RT @SciencePorn: The future has arrived #BackToTheFuture #MartyMcFly https://t.co/VZcoMIojam
-Request JSON Android https://t.co/01vG4gXsqx #android #json
-Android JSON Parser https://t.co/8mgSDnlSyQ #android #json
-Agar.io clone written with Socket.IO and HTML5 canvas https://t.co/wQ36pRgPzr #javascript #jquery #nodejs #html5games #html5
-Including Javascript Libraries using Javascript itself https://t.co/FtRIaSjh0K #javascript #jquery #code
-VIM configuration for happy Java coding https://t.co/OzB8PKnOjp #java #programming #vim
-How to Become a JavaScript Badass https://t.co/ium5d9Inng #javascript #code #jQuery
-Mobile advertising DDoS JavaScript drip serves site with 4.5bn hits https://t.co/KeehINSsnj vÃ­a @theregister #javascript #security
-The programming and engineering skills with the highest salaries https://t.co/vHCA0fP5oO vÃ­a @bi_contributors #java #javascript #python #c
-JavaScript Goes Asynchronous (and Itâ€™s Awesome) https://t.co/KU4A0yWsC2 vÃ­a @sitepointdotcom #javascript #jquery
-THE BASS IS FOOKING RAW! https://t.co/ksvb8AtEsC vÃ­a @YouTube #funny
-Bane - What's that Song? https://t.co/laX3wkfdmJ vÃ­a @YouTube #funny
-'REDNECK AVENGERS: TULSA NIGHTS' â€” A Bad Lip Reading of Marvel's The Ave... https://t.co/nznYQCM7IL vÃ­a @YouTube #funny
-https://t.co/xEAoACQWPP The second answer is the answer #java #eclipse #tips
-Awesome! https://t.co/t76Bp4R9sC
-Everything Wrong With Avengers: Age of Ultron https://t.co/5RiTFVItWL vÃ­a @YouTube #cinemasins
-Star Wars: The Force Awakens Last Trailer (Official) #starwars https://t.co/QK2n3rIXMZ vÃ­a @YouTube
-I think this is the best motivational video ever! https://t.co/AE0COWKwih #motivation
-Just updated ienai news code, take a look at it and tell me what do you think about it https://t.co/cmcyoIQPjw #jquery #javascript
-.Ieanai news - Read news quickly http://t.co/nRcibeV7Kq #news #javascript #jquery #programming
-Rachel will allow you generate forms using only jQuery and JSON without HTML. https://t.co/20vefJHemD  #javascript #jquery #html5
-RT @9GAG: George Carlin, also one of the best comedians!  http://t.co/WdeEIiyQIH http://t.co/CQyVuZzE5v
-When I'm stuck in something and turn to see what senior developer is doing http://t.co/EHbJ1znE3u
-I love internet :D https://t.co/ksvb8AtEsC vÃ­a @YouTube
-RT @SciencePorn: By balancing temperature, humidity and lighting, a Dutch artist created a cloud in the middle of a room. http://t.co/o8y3Uâ€¦
-Terminator Genisys: Creating a Fully Digital Schwarzenegger https://t.co/2rUGgNoXMC vÃ­a @YouTube
-Wood burning With Lightning. Lichtenberg Figures! https://t.co/NhoIIQgS1U vÃ­a @YouTube
-Acoustic levitation https://t.co/VtMmnFPL2W vÃ­a @YouTube
-Want to play sports? let's sweat those neurons https://t.co/VcZAosLgVH #programming #coding #algorithms
-@NASA @MarsCuriosity Amazing video guys, nice job!
-This is a pretty cool video @NASA good work! https://t.co/RcT7AjqES6
-How those super-heroes make their work, YouTrack - The Art of Bug Tracking https://t.co/CgGFHoZ4Ho vÃ­a @YouTube #programming
-15 Fun Ways to Practice the Foreign Language You Are Studying http://t.co/Q0hWAqpY8E #languages
-I'm enjoying 'Blue Silence - Joan (Cloudwalker Remix)' on the Epic Trance channel at @diradio http://t.co/xZNmLybYwO
-How competitive in programming is your country http://t.co/IFXIrkwIEO #programming #algorithms #technology #problemsolving
-I can't hold it anymore! #algorithms http://t.co/OQpK2wS5Gi
-Regina Spektor - Oh Marcello https://t.co/r5JmZxtXnW vÃ­a @YouTube #music
-Programming is a sport too, if you want to practice it this is a good way to start http://t.co/LoPwvcee4m #programming #mindsport
-RT @SciencePorn: SPACEPORN: Milky Way behind the Ocotillo wind farm, California. Photo by Michael Shainblum http://t.co/BmgCjdBqzC
-The Importance of Algorithms https://t.co/VNvtIFBzuf by @topcoder #algorithms
-Snoop Dogg &amp; The Doors - Riders On The Storm, for those memories https://t.co/RjseBGJw1g vÃ­a @YouTube #tbt #gaming
-Mr. Mister - Broken Wings, remember the 80's? https://t.co/Z3C0CEnTGQ vÃ­a @YouTube #tbt #music
-Events of all Nov/11 (11/11) in history https://t.co/NA7SQqK56F #curiosity #numbers #facts
-The GTA 3 web page is still alive and operative, take a look: http://t.co/vavfKEKYfj #gaming #gta
-Solve some algorithmic problems to refresh your head this weekend http://t.co/S2GijuePSA #algorithms #math #programming
-Input/output with files in C++ http://t.co/aU3HAxnNWN
-Is Zero Even? https://t.co/uz2anvFkLP vÃ­a @YouTube
-If you still don't see the pattern, you need more numbers... #math #computing
-List of amateur mathematicians #math #amateur https://t.co/RPKGgKF9AI
-Science degree #math #comics http://t.co/hKVCRNvQge
-The Religious Affiliation of the 100 Greatest Rock Musicians http://t.co/uJcy7yTv9y
-Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014 https://t.co/3oE4i4b12j vÃ­a @YouTube
-11.11.11 - Numberphile https://t.co/jv9MGv2x8V vÃ­a @YouTube
-Need For Speed Underground 2 Soundtrack https://t.co/VUriLfWLS3 vÃ­a @YouTube
-Geek or Nerd ? What's the difference? | NumberHub with Hannah Fry |  Hea... https://t.co/5hxKO3yEoF via @YouTube
-Why Write Your Own Book When An Algorithm Can Do It For You?http://t.co/5G6eT7Il8i
-Who is Cortana? http://t.co/w7UVBGNmq8
-RT @SciencePorn: Science class for teenagers http://t.co/TinNQwzTm1
-Stephen Wolfram Says He Has An Algorithm For Life, The Universe And Everything. Literally! http://t.co/bQaoheX6ki #math #compsci
-RT @SciencePorn: This apple hasn't got time for your silly science experiments http://t.co/3CeGnNqtko
-I love it! https://t.co/mOLUbLnJFC
-The Unlogical: 5 Amazing Data Structures http://t.co/h5ZX59omlR
-My new JavaScript application made in 3 days, 'Hummingbird' https://t.co/GJ0H7XdNs5 #javascript #webdevelopment #programming
-My new JavaScript library in just 5 hours... https://t.co/JAAowWR2P7 #javascript #programming #webdevelopment
-Farthest journey by hoverboard - Guinness World Records https://t.co/4XJflIG23C via @YouTube
-Full Gangnam Style video animated in paper https://t.co/mWtbhCCg1V vÃ­a @YouTube
-Las voces de los libros que hemos leÃ­do resuenan dentro de nosotros mismos #libros #Literatura
-Jennifer Lopez - If You Had My Love (Official Video) https://t.co/gF7J67hLO6 via @YouTube #TBT
-Enrique Iglesias - Bailamos https://t.co/GIUwDqF7JE via @YouTube #TBT
-How Old Do I Look http://t.co/PtSiLwlimm #app #Microsoft #HowOldDoILook
-Flight Arcade http://t.co/tpxlO5V06y #games #Microsoft
-Mainfold JS: The simplest way to create hosted apps across platforms and devices http://t.co/EOHlLUzNWH
-Android Blog:  Android Wear http://t.co/3aWnsxilAB via @android
-Microsoft HoloLens: A Close Look at the Hardware https://t.co/kIZPxJOz09 via @YouTube #tech
-Introducing Microsoft Edge: The New Windows 10 Browser https://t.co/IGlbE7fkAH via @YouTube #tech
-HEXO+: Your Autonomous Aerial Camera - Drone https://t.co/Bl5QSras9v https://t.co/Tv5xTcYs4l http://t.co/r45j9qAujW
-Lee los primeros capÃ­tulos libro de ciencia ficciÃ³n 'Taneq La' #scifi #CienciaFiccion #Libros #leer http://t.co/cdZUm0otXD
-Batman v Superman: Dawn of Justice - Official Teaser Trailer [HD] https://t.co/fL19NWmybX via @YouTube
-I saw a life flash before me in 60 seconds. Itâ€™s your turn to play! #InteractiveHaiku via @TheNFB and @ARTEfr: http://t.co/9m2LIoJLJp
-RT @NASA: All weekend, weâ€™re celebrating 25 years of @NASA_Hubble on our @NASA Instagram: http://t.co/s3ME54anPZ #Hubble25 http://t.co/8QIfâ€¦
-If you want to learn to meditate correctly, these are some good instructions to start. https://t.co/Urq28Bh2ff via @YouTube #meditation
-RT @WIRED: Review: The new MacBook can't do much, but soon that'll be enough http://t.co/LqE1wYfSvq http://t.co/rar5n4Sqw9
-'@newsycombinator: Microsoft seeks to recruit autistic workers http://t.co/iueUGouib3' what?
-RT @TechCrunch: Instagram adds new photo editing tools and post notifications http://t.co/8qvTFWWZOq http://t.co/SLDm1hqRBz
-Views in Google Maps, so cool https://t.co/jaHTemevVo #WebApps #Google #technology http://t.co/8xamvBgd5p
-RT @TechCrunch: Apple Patents Learning Computer Vision For Gesture Control http://t.co/nVHS3MPX09 by @etherington http://t.co/8jZRKtiv4M
-@shanselman hahahaha good one
-RT @TeamToFollow: Researchers build aluminum battery that can be charged in one minute http://t.co/VapMU3ny7N
-RT @OleMissRebels: Remember Pac-Man? Now you can play it on campus, courtesy @googlemaps! Check it out http://t.co/7lsMoijf01
-@unbrelievable Hi Breanna, I have two questions for you, Do you write some code in your free time? What keep you motivated? Have a nice day.
-@heatherpayne Hi Heather, I have a couple of questions for you, Do you make programs in your free time? What keep you motivated? Thanks
-@pablos Hi Pablos, I have two questions for you. What keep you motivated? and What is better, useful ideas or fun ideas?. Have a nice day
-This is a very nice blog to check out: http://t.co/oEKyPZ5HPT #programming
-What? O_O The Time Traveller: https://t.co/lkVpyzognk #timetravel
-@codekat @dajbelshaw Hahahahaha, that's funny
-RT @gregsramblings: In honor of #PiDay, @saturnism &amp; I computed 100billion digits of Pi on 32vCPU/208GB @GoogleCloud VM 5.3hrs! Blog soon hâ€¦
-Incredible! 57 story building constructed in just 19 days in China https://t.co/jyoOq7D6wA #china #engineering
-Ok, this is awesome #n64memories http://t.co/iinFmhP6ds
-RT @newsycombinator: The new MacBook https://t.co/UxGCxQUfXJ
-RT @newsycombinator: Java Runtime updater now installs http://t.co/NsTADda1cy toolbar on macs https://t.co/HzDFd8ct1l
-This is a very good tutorial to build mental palaces #Memory http://t.co/Tn0cYv5yGi
-The next Marvel movies #marvel #movies @Marvel http://t.co/sxAYef0aic
-A little of social network photography. #photography #blackandwhite http://t.co/JKvH2BxaIb
-RT @newsycombinator: Gg â€“ Git Shortcuts, Colored Outputs, and More https://t.co/OhpsPfwvmY
-Amazing Ghost in the Shell landscapes #Anime #Landscape http://t.co/HDabt39l6t
-Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: http://t.co/ZHhBKrc3BD via @YouTube
-How to become a memory master | Idriz Zogaj | TEDxGoteborg: http://t.co/8uUx9zBjMX #Mnemotechnique
-The art of memory: Daniel Kilov at TEDxMacquarieUniversity: http://t.co/LIBfXZeanS #Mnemotechnique
-Memory Technique #2   How to Make Images Interesting: http://t.co/055ky0w6M0 #Memory
-Memory Technique #1: The Memory Palace: http://t.co/Kz0zRFRAVT via @YouTube #Memory
-RT @newsycombinator: Windows 93 in JavaScript http://t.co/17uWYAkDLr?
-@newsycombinator This is really cool :D
-This is cool, Mental Athletes: The Sport of Memory: http://t.co/ktuDBOltyr http://t.co/YsFT2ZvROv
-RT @newsycombinator: The $5000 Compression Challenge http://t.co/qReeXLdRYD
-This video game blow my mind. FEZ: https://t.co/oKimUdZksX #fez http://t.co/Q4ELBc469m
-Abingdon Boys School - Nervous breakdown - [JAPAN TOUR '10] http://t.co/wbA0bhHkM6 #JapaneseMusic http://t.co/jptLoOXEXt
-Another amazing Russian song, Ð’ÐµÑ€Ð° Ð‘Ñ€ÐµÐ¶Ð½ÐµÐ²Ð° - Ð ÐµÐ°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ (Vera Brezhneva - Real Life): https://t.co/UuWTppFyKx http://t.co/A6h9YqOCST
-Hacked #Portal gun actually levitates a companion cube: http://t.co/vPKr9y5A9S #hack http://t.co/vMa9CqfX4Q
-From Pixels to Actions: Human-level control through Deep Reinforcement Learning http://t.co/KNxt1M7eRM via @googleresearch
-Typical Japanese streets #Japan http://t.co/V72i8NEDcJ
-For those people that haven't seen it: https://t.co/mFXxuBqGO5 #AgeOfUltron third trailer http://t.co/Z6V0qiXxFv
-This is an amazing vegan lunch, #Escalope #Quinoa http://t.co/aro9FepUQp
-What!? Google nutrition facts!? http://t.co/vCAP0Ez12Q
-This is the best electronic music radio I've ever heard http://t.co/kuy7EneZjf @difm http://t.co/m9k5beivWQ
-Ok, that was cool 'Furious 7 - Extended First Look (HD)' http://t.co/10Eq8vrXmY
-#MakeSomeonesDayIn3Words Be my friend
-#MakeAFirstDateWeirdIn4words You are my wallpaper
-This song is nice too, good job @off_vintage http://t.co/jIRM6356OY
-Interstellar, full cast and crew, the higher score on Sci-Fi movies category @IMDb http://t.co/JJeTs3j6fg
-ÐÐ½Ð¸ Ð›Ð¾Ñ€Ð°Ðº My favorite singer...  that voice... that face @AniLorak http://t.co/3YEAwNeqRx
-My favorite russian Pop song, ÐŸÐ¾Ð»Ð¸Ð½Ð° Ð“Ð°Ð³Ð°Ñ€Ð¸Ð½Ð° - Ð¡Ð¿ÐµÐºÑ‚Ð°ÐºÐ»ÑŒ Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½: http://t.co/filjNBUW20?
-A true programmer don't create little applications, a true programmer create autonomous machines.
-Â¿How far can your mind reach? A well-trained mind can from play music to simulate videogames on it.
-Trick: If you sleep with classical music in background, seems you are sleeping longer that before, even if you only sleep two hours
-There is no time, because time is relative for everyone. If you don't have any way to see what time is it, your days will be longer
-Â¿What are you meant to be? Â¿What is your passion? #WhatIsYourPassion
-RT @IEEEorg: #TechFact: The 1st camera phone, the Sharp J-SH04, was released in Japan in 2000. http://t.co/LYiaGS2QeX
-It's not about money or be someone in life, it's about happiness
-The computers has capacity to be completely autonomous and independent. One day we will work together.
-An Introduction to Useful Bash Aliases and Functions https://t.co/vpbzDqqpER #programming #coding #bash
-How To Become A CIO or CTO https://t.co/ujmSWNcfAU #cio #cto #software #engineering #programming #it
-Emerging Information Technology Techniques Trends for 2016 https://t.co/6tw2FaIZ8W #technology #frameworks #software #SoftwareEngineering
-Emerging Information Technology Tools Trends for 2016 https://t.co/bqwDZviVyJ #technology #frameworks #software #SoftwareEngineering
-Emerging Platforms Trends for 2016 https://t.co/8V3CynFqM8 #programming #frameworks #software #SoftwareEngineering
-Emerging Language and Frameworks Trends for 2016 https://t.co/w94VI3EDyb #technology #frameworks #software #SoftwareEngineering
-Batman: The Dark Knight (2008) - Interrogation Scene https://t.co/hPfj2PFl5m #MyFavoriteMovieScenes
-The Matrix (1999) - Agent Smith Interview. https://t.co/NkI5bacfxU #MyFavoriteMovieScenes
-General Zod's Trial - Man of Steel, Amazing performance of the actor Michael Shannon. https://t.co/m5NxQci6iM #MyFavoriteMovieScenes
-Stop Trying To Be Happy https://t.co/d3aqqPh3dI vÃ­a @IAmMarkManson
-This is the place YouTubers get the indie music for their videos, it has a very cool music player too https://t.co/g6RnovSht5
-RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
-Doctor Who - If I see one more gun https://t.co/yBJBdF39KG vÃ­a @YouTube
-How to Encourage The Evolution of Your Brain, with Rudolph Tanzi https://t.co/ht5LlPMcNH vÃ­a @YouTube
-D3.js - Data-Driven Documents https://t.co/HCXIfDe8bX https://t.co/pyfiKDCAYL
-15 Papers you should read when interested in node.js's background https://t.co/UzAJOSKOTu #javascript #nodejs #research
-RT @reinink: There are only THREE hard things in Computer Science: cache invalidation, naming things, and database schema changes.
-Out-Oh-Mat - Brainstorm | textmode https://t.co/vKyYedkKhh vÃ­a @YouTube
-jQuery Tips Everyone Should Know https://t.co/bGMvQkJ8DL #jquery #javascript #programming #coding #html5
-obsidian by xplsv https://t.co/ptPwkY0nzG #demoscene #javascript #webgl #coding #art
-Demoscene JavaScript https://t.co/ZCzTHEnSkj #demoscene #javascript #coding #computing #art
-Donâ€™t Be Scared Of Functional Programming https://t.co/YOOTmx7sSI #javascript #programming #FunctionalProgramming
-The Little JavaScripter https://t.co/pKFCpnxbT2 #javascript #coding #scheme #FunctionalProgramming
-How JavaScript Timers Work https://t.co/1tDE70qS15 #javascript #coding #programming
-Asynch JS: The Power Of $.Deferred https://t.co/zh4OjmJEBy #javascript #coding #programming
-Semantic UI 2.0 is out! https://t.co/vcPjBNNrEG vÃ­a @semanticui #html5 #javascript #semantic
-The Basics of Object-Oriented JavaScript https://t.co/VPdesQuhwu vÃ­a @tutsplus #javascript #coding #programming
-Object-oriented Programming https://t.co/2YG9184PGU #javascript #coding
-Cyclomatic complexity refactoring tips for javascript developers https://t.co/VUK3Q8ogfz #javascript #coding
-â€œAn Intro to Functional Programming Concepts in JavaScriptâ€ by @collardeau https://t.co/kUW20JAU8U #javascript #jquery #coding #FP
-6 Rules for Awesome Data Visualizations with Kendo UI - https://t.co/TSy3pPro29 #javascript #jquery #data #kendoUI
-Donâ€™t Return A JSON Document From The toJSON Method https://t.co/S7CMbkhsZu #jquery #javascript #json
-Detecting Online Status with JavaScript by @davidwalshblog https://t.co/DazzpcXDGx #javascript #jquery #code
-Genetic algorithm implementation in Javascript + Canvas https://t.co/xLhit2cpBk #algorithms #programming #javascript #canvas
-Chrome Experiments, several amazing web projects based on chrome technologies https://t.co/Je3enwYKto #javascript #webgl #gamedev
-Algorithmic Art Galleries https://t.co/ruvmiO11Xm #programming #computing #art #code
-Gallery of Computation https://t.co/R2pwlys36y #programming #computing #art #code
-Displayhack: real-time graphics, visual arts, motion graphics and the demoscene https://t.co/ZB1LHIzq0C #programming #computing #art #code
-Art from code - Generator.x https://t.co/P5XNGwv4RE #programming #computing #art #code
-Generative Art Links https://t.co/pkDFAJeAAx #programming #computing #art #math
-Introduction to Object-Oriented JavaScript https://t.co/ZYAk1mU9x4 #javascript #programming #developers
-jQuery Coding Standards and Best Practices https://t.co/Cb3A0TzoUg vÃ­a @abhinay_rathore #jquery #javascript #coding #code
-HTML5 Game Engines, Which HTML5 Game Engine is right for you?https://t.co/2WFtWluCWb #javascript #gamedev #webgl #html5
-BabylonJS playground, JavaScript editor to test 3d features https://t.co/4ZPLrY4GwF #javascript #3d #gamedev #webgl
-BabylonJS, JavaScript library for 3D games https://t.co/F84BM74FOn #javascript #3d #gamedev #webgl
-Android/Java: JSON HTTP Request https://t.co/7NmzYgMItq #java #android #json
-Using HTTP requests to get JSON objects in Android https://t.co/qg0QeNWupL #android #code #programming #json
-RT @javinpaul: 10 Programming Best Practices to Name Variables https://t.co/TfZaozpUoI #Java #programming https://t.co/mA1qNqthi4
-RT @SciencePorn: The future has arrived #BackToTheFuture #MartyMcFly https://t.co/VZcoMIojam
-Request JSON Android https://t.co/01vG4gXsqx #android #json
-Android JSON Parser https://t.co/8mgSDnlSyQ #android #json
-Agar.io clone written with Socket.IO and HTML5 canvas https://t.co/wQ36pRgPzr #javascript #jquery #nodejs #html5games #html5
-Including Javascript Libraries using Javascript itself https://t.co/FtRIaSjh0K #javascript #jquery #code
-VIM configuration for happy Java coding https://t.co/OzB8PKnOjp #java #programming #vim
-How to Become a JavaScript Badass https://t.co/ium5d9Inng #javascript #code #jQuery
-Mobile advertising DDoS JavaScript drip serves site with 4.5bn hits https://t.co/KeehINSsnj vÃ­a @theregister #javascript #security
-The programming and engineering skills with the highest salaries https://t.co/vHCA0fP5oO vÃ­a @bi_contributors #java #javascript #python #c
-JavaScript Goes Asynchronous (and Itâ€™s Awesome) https://t.co/KU4A0yWsC2 vÃ­a @sitepointdotcom #javascript #jquery
-THE BASS IS FOOKING RAW! https://t.co/ksvb8AtEsC vÃ­a @YouTube #funny
-Bane - What's that Song? https://t.co/laX3wkfdmJ vÃ­a @YouTube #funny
-'REDNECK AVENGERS: TULSA NIGHTS' â€” A Bad Lip Reading of Marvel's The Ave... https://t.co/nznYQCM7IL vÃ­a @YouTube #funny
-https://t.co/xEAoACQWPP The second answer is the answer #java #eclipse #tips
-Awesome! https://t.co/t76Bp4R9sC
-Everything Wrong With Avengers: Age of Ultron https://t.co/5RiTFVItWL vÃ­a @YouTube #cinemasins
-Star Wars: The Force Awakens Last Trailer (Official) #starwars https://t.co/QK2n3rIXMZ vÃ­a @YouTube
-I think this is the best motivational video ever! https://t.co/AE0COWKwih #motivation
-Just updated ienai news code, take a look at it and tell me what do you think about it https://t.co/cmcyoIQPjw #jquery #javascript
-.Ieanai news - Read news quickly http://t.co/nRcibeV7Kq #news #javascript #jquery #programming
-Rachel will allow you generate forms using only jQuery and JSON without HTML. https://t.co/20vefJHemD  #javascript #jquery #html5
-RT @9GAG: George Carlin, also one of the best comedians!  http://t.co/WdeEIiyQIH http://t.co/CQyVuZzE5v
-When I'm stuck in something and turn to see what senior developer is doing http://t.co/EHbJ1znE3u
-I love internet :D https://t.co/ksvb8AtEsC vÃ­a @YouTube
-RT @SciencePorn: By balancing temperature, humidity and lighting, a Dutch artist created a cloud in the middle of a room. http://t.co/o8y3Uâ€¦
-Terminator Genisys: Creating a Fully Digital Schwarzenegger https://t.co/2rUGgNoXMC vÃ­a @YouTube
-Wood burning With Lightning. Lichtenberg Figures! https://t.co/NhoIIQgS1U vÃ­a @YouTube
-Acoustic levitation https://t.co/VtMmnFPL2W vÃ­a @YouTube
-Want to play sports? let's sweat those neurons https://t.co/VcZAosLgVH #programming #coding #algorithms
-@NASA @MarsCuriosity Amazing video guys, nice job!
-This is a pretty cool video @NASA good work! https://t.co/RcT7AjqES6
-How those super-heroes make their work, YouTrack - The Art of Bug Tracking https://t.co/CgGFHoZ4Ho vÃ­a @YouTube #programming
-15 Fun Ways to Practice the Foreign Language You Are Studying http://t.co/Q0hWAqpY8E #languages
-I'm enjoying 'Blue Silence - Joan (Cloudwalker Remix)' on the Epic Trance channel at @diradio http://t.co/xZNmLybYwO
-How competitive in programming is your country http://t.co/IFXIrkwIEO #programming #algorithms #technology #problemsolving
-I can't hold it anymore! #algorithms http://t.co/OQpK2wS5Gi
-Regina Spektor - Oh Marcello https://t.co/r5JmZxtXnW vÃ­a @YouTube #music
-Programming is a sport too, if you want to practice it this is a good way to start http://t.co/LoPwvcee4m #programming #mindsport
-RT @SciencePorn: SPACEPORN: Milky Way behind the Ocotillo wind farm, California. Photo by Michael Shainblum http://t.co/BmgCjdBqzC
-The Importance of Algorithms https://t.co/VNvtIFBzuf by @topcoder #algorithms
-Snoop Dogg &amp; The Doors - Riders On The Storm, for those memories https://t.co/RjseBGJw1g vÃ­a @YouTube #tbt #gaming
-Mr. Mister - Broken Wings, remember the 80's? https://t.co/Z3C0CEnTGQ vÃ­a @YouTube #tbt #music
-Events of all Nov/11 (11/11) in history https://t.co/NA7SQqK56F #curiosity #numbers #facts
-The GTA 3 web page is still alive and operative, take a look: http://t.co/vavfKEKYfj #gaming #gta
-Solve some algorithmic problems to refresh your head this weekend http://t.co/S2GijuePSA #algorithms #math #programming
-Input/output with files in C++ http://t.co/aU3HAxnNWN
-Is Zero Even? https://t.co/uz2anvFkLP vÃ­a @YouTube
-If you still don't see the pattern, you need more numbers... #math #computing
-List of amateur mathematicians #math #amateur https://t.co/RPKGgKF9AI
-Science degree #math #comics http://t.co/hKVCRNvQge
-The Religious Affiliation of the 100 Greatest Rock Musicians http://t.co/uJcy7yTv9y
-Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014 https://t.co/3oE4i4b12j vÃ­a @YouTube
-11.11.11 - Numberphile https://t.co/jv9MGv2x8V vÃ­a @YouTube
-Need For Speed Underground 2 Soundtrack https://t.co/VUriLfWLS3 vÃ­a @YouTube
-Geek or Nerd ? What's the difference? | NumberHub with Hannah Fry |  Hea... https://t.co/5hxKO3yEoF via @YouTube
-Why Write Your Own Book When An Algorithm Can Do It For You?http://t.co/5G6eT7Il8i
-Who is Cortana? http://t.co/w7UVBGNmq8
-RT @SciencePorn: Science class for teenagers http://t.co/TinNQwzTm1
-Stephen Wolfram Says He Has An Algorithm For Life, The Universe And Everything. Literally! http://t.co/bQaoheX6ki #math #compsci
-RT @SciencePorn: This apple hasn't got time for your silly science experiments http://t.co/3CeGnNqtko
-I love it! https://t.co/mOLUbLnJFC
-The Unlogical: 5 Amazing Data Structures http://t.co/h5ZX59omlR
-My new JavaScript application made in 3 days, 'Hummingbird' https://t.co/GJ0H7XdNs5 #javascript #webdevelopment #programming
-My new JavaScript library in just 5 hours... https://t.co/JAAowWR2P7 #javascript #programming #webdevelopment
-Farthest journey by hoverboard - Guinness World Records https://t.co/4XJflIG23C via @YouTube
-Full Gangnam Style video animated in paper https://t.co/mWtbhCCg1V vÃ­a @YouTube
-Las voces de los libros que hemos leÃ­do resuenan dentro de nosotros mismos #libros #Literatura
-Jennifer Lopez - If You Had My Love (Official Video) https://t.co/gF7J67hLO6 via @YouTube #TBT
-Enrique Iglesias - Bailamos https://t.co/GIUwDqF7JE via @YouTube #TBT
-How Old Do I Look http://t.co/PtSiLwlimm #app #Microsoft #HowOldDoILook
-Flight Arcade http://t.co/tpxlO5V06y #games #Microsoft
-Mainfold JS: The simplest way to create hosted apps across platforms and devices http://t.co/EOHlLUzNWH
-Android Blog:  Android Wear http://t.co/3aWnsxilAB via @android
-Microsoft HoloLens: A Close Look at the Hardware https://t.co/kIZPxJOz09 via @YouTube #tech
-Introducing Microsoft Edge: The New Windows 10 Browser https://t.co/IGlbE7fkAH via @YouTube #tech
-HEXO+: Your Autonomous Aerial Camera - Drone https://t.co/Bl5QSras9v https://t.co/Tv5xTcYs4l http://t.co/r45j9qAujW
-Lee los primeros capÃ­tulos libro de ciencia ficciÃ³n 'Taneq La' #scifi #CienciaFiccion #Libros #leer http://t.co/cdZUm0otXD
-Batman v Superman: Dawn of Justice - Official Teaser Trailer [HD] https://t.co/fL19NWmybX via @YouTube
-I saw a life flash before me in 60 seconds. Itâ€™s your turn to play! #InteractiveHaiku via @TheNFB and @ARTEfr: http://t.co/9m2LIoJLJp
-RT @NASA: All weekend, weâ€™re celebrating 25 years of @NASA_Hubble on our @NASA Instagram: http://t.co/s3ME54anPZ #Hubble25 http://t.co/8QIfâ€¦
-If you want to learn to meditate correctly, these are some good instructions to start. https://t.co/Urq28Bh2ff via @YouTube #meditation
-RT @WIRED: Review: The new MacBook can't do much, but soon that'll be enough http://t.co/LqE1wYfSvq http://t.co/rar5n4Sqw9
-'@newsycombinator: Microsoft seeks to recruit autistic workers http://t.co/iueUGouib3' what?
-RT @TechCrunch: Instagram adds new photo editing tools and post notifications http://t.co/8qvTFWWZOq http://t.co/SLDm1hqRBz
-Views in Google Maps, so cool https://t.co/jaHTemevVo #WebApps #Google #technology http://t.co/8xamvBgd5p
-RT @TechCrunch: Apple Patents Learning Computer Vision For Gesture Control http://t.co/nVHS3MPX09 by @etherington http://t.co/8jZRKtiv4M
-@shanselman hahahaha good one
-RT @TeamToFollow: Researchers build aluminum battery that can be charged in one minute http://t.co/VapMU3ny7N
-RT @OleMissRebels: Remember Pac-Man? Now you can play it on campus, courtesy @googlemaps! Check it out http://t.co/7lsMoijf01
-@unbrelievable Hi Breanna, I have two questions for you, Do you write some code in your free time? What keep you motivated? Have a nice day.
-@heatherpayne Hi Heather, I have a couple of questions for you, Do you make programs in your free time? What keep you motivated? Thanks
-@pablos Hi Pablos, I have two questions for you. What keep you motivated? and What is better, useful ideas or fun ideas?. Have a nice day
-This is a very nice blog to check out: http://t.co/oEKyPZ5HPT #programming
-What? O_O The Time Traveller: https://t.co/lkVpyzognk #timetravel
-@codekat @dajbelshaw Hahahahaha, that's funny
-RT @gregsramblings: In honor of #PiDay, @saturnism &amp; I computed 100billion digits of Pi on 32vCPU/208GB @GoogleCloud VM 5.3hrs! Blog soon hâ€¦
-Incredible! 57 story building constructed in just 19 days in China https://t.co/jyoOq7D6wA #china #engineering
-Ok, this is awesome #n64memories http://t.co/iinFmhP6ds
-RT @newsycombinator: The new MacBook https://t.co/UxGCxQUfXJ
-RT @newsycombinator: Java Runtime updater now installs http://t.co/NsTADda1cy toolbar on macs https://t.co/HzDFd8ct1l
-This is a very good tutorial to build mental palaces #Memory http://t.co/Tn0cYv5yGi
-The next Marvel movies #marvel #movies @Marvel http://t.co/sxAYef0aic
-A little of social network photography. #photography #blackandwhite http://t.co/JKvH2BxaIb
-RT @newsycombinator: Gg â€“ Git Shortcuts, Colored Outputs, and More https://t.co/OhpsPfwvmY
-Amazing Ghost in the Shell landscapes #Anime #Landscape http://t.co/HDabt39l6t
-Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: http://t.co/ZHhBKrc3BD via @YouTube
-How to become a memory master | Idriz Zogaj | TEDxGoteborg: http://t.co/8uUx9zBjMX #Mnemotechnique
-The art of memory: Daniel Kilov at TEDxMacquarieUniversity: http://t.co/LIBfXZeanS #Mnemotechnique
-Memory Technique #2   How to Make Images Interesting: http://t.co/055ky0w6M0 #Memory
-Memory Technique #1: The Memory Palace: http://t.co/Kz0zRFRAVT via @YouTube #Memory
-RT @newsycombinator: Windows 93 in JavaScript http://t.co/17uWYAkDLr?
-@newsycombinator This is really cool :D
-This is cool, Mental Athletes: The Sport of Memory: http://t.co/ktuDBOltyr http://t.co/YsFT2ZvROv
-RT @newsycombinator: The $5000 Compression Challenge http://t.co/qReeXLdRYD
-This video game blow my mind. FEZ: https://t.co/oKimUdZksX #fez http://t.co/Q4ELBc469m
-Abingdon Boys School - Nervous breakdown - [JAPAN TOUR '10] http://t.co/wbA0bhHkM6 #JapaneseMusic http://t.co/jptLoOXEXt
-Another amazing Russian song, Ð’ÐµÑ€Ð° Ð‘Ñ€ÐµÐ¶Ð½ÐµÐ²Ð° - Ð ÐµÐ°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ (Vera Brezhneva - Real Life): https://t.co/UuWTppFyKx http://t.co/A6h9YqOCST
-Hacked #Portal gun actually levitates a companion cube: http://t.co/vPKr9y5A9S #hack http://t.co/vMa9CqfX4Q
-From Pixels to Actions: Human-level control through Deep Reinforcement Learning http://t.co/KNxt1M7eRM via @googleresearch
-Typical Japanese streets #Japan http://t.co/V72i8NEDcJ
-For those people that haven't seen it: https://t.co/mFXxuBqGO5 #AgeOfUltron third trailer http://t.co/Z6V0qiXxFv
-This is an amazing vegan lunch, #Escalope #Quinoa http://t.co/aro9FepUQp
-What!? Google nutrition facts!? http://t.co/vCAP0Ez12Q
-This is the best electronic music radio I've ever heard http://t.co/kuy7EneZjf @difm http://t.co/m9k5beivWQ
-Ok, that was cool 'Furious 7 - Extended First Look (HD)' http://t.co/10Eq8vrXmY
-#MakeSomeonesDayIn3Words Be my friend
-#MakeAFirstDateWeirdIn4words You are my wallpaper
-This song is nice too, good job @off_vintage http://t.co/jIRM6356OY
-Interstellar, full cast and crew, the higher score on Sci-Fi movies category @IMDb http://t.co/JJeTs3j6fg
-ÐÐ½Ð¸ Ð›Ð¾Ñ€Ð°Ðº My favorite singer...  that voice... that face @AniLorak http://t.co/3YEAwNeqRx
-My favorite russian Pop song, ÐŸÐ¾Ð»Ð¸Ð½Ð° Ð“Ð°Ð³Ð°Ñ€Ð¸Ð½Ð° - Ð¡Ð¿ÐµÐºÑ‚Ð°ÐºÐ»ÑŒ Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½: http://t.co/filjNBUW20?
-A true programmer don't create little applications, a true programmer create autonomous machines.
-Â¿How far can your mind reach? A well-trained mind can from play music to simulate videogames on it.
-Trick: If you sleep with classical music in background, seems you are sleeping longer that before, even if you only sleep two hours
-There is no time, because time is relative for everyone. If you don't have any way to see what time is it, your days will be longer
-Â¿What are you meant to be? Â¿What is your passion? #WhatIsYourPassion
-RT @IEEEorg: #TechFact: The 1st camera phone, the Sharp J-SH04, was released in Japan in 2000. http://t.co/LYiaGS2QeX
-It's not about money or be someone in life, it's about happiness
-The computers has capacity to be completely autonomous and independent. One day we will work together.
-An Introduction to Useful Bash Aliases and Functions https://t.co/vpbzDqqpER #programming #coding #bash
-How To Become A CIO or CTO https://t.co/ujmSWNcfAU #cio #cto #software #engineering #programming #it
-Emerging Information Technology Techniques Trends for 2016 https://t.co/6tw2FaIZ8W #technology #frameworks #software #SoftwareEngineering
-Emerging Information Technology Tools Trends for 2016 https://t.co/bqwDZviVyJ #technology #frameworks #software #SoftwareEngineering
-Emerging Platforms Trends for 2016 https://t.co/8V3CynFqM8 #programming #frameworks #software #SoftwareEngineering
-Emerging Language and Frameworks Trends for 2016 https://t.co/w94VI3EDyb #technology #frameworks #software #SoftwareEngineering
-Batman: The Dark Knight (2008) - Interrogation Scene https://t.co/hPfj2PFl5m #MyFavoriteMovieScenes
-The Matrix (1999) - Agent Smith Interview. https://t.co/NkI5bacfxU #MyFavoriteMovieScenes
-General Zod's Trial - Man of Steel, Amazing performance of the actor Michael Shannon. https://t.co/m5NxQci6iM #MyFavoriteMovieScenes
-Stop Trying To Be Happy https://t.co/d3aqqPh3dI vÃ­a @IAmMarkManson
-This is the place YouTubers get the indie music for their videos, it has a very cool music player too https://t.co/g6RnovSht5
-RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
-Doctor Who - If I see one more gun https://t.co/yBJBdF39KG vÃ­a @YouTube
-How to Encourage The Evolution of Your Brain, with Rudolph Tanzi https://t.co/ht5LlPMcNH vÃ­a @YouTube
-D3.js - Data-Driven Documents https://t.co/HCXIfDe8bX https://t.co/pyfiKDCAYL
-15 Papers you should read when interested in node.js's background https://t.co/UzAJOSKOTu #javascript #nodejs #research
-RT @reinink: There are only THREE hard things in Computer Science: cache invalidation, naming things, and database schema changes.
-Out-Oh-Mat - Brainstorm | textmode https://t.co/vKyYedkKhh vÃ­a @YouTube
-jQuery Tips Everyone Should Know https://t.co/bGMvQkJ8DL #jquery #javascript #programming #coding #html5
-obsidian by xplsv https://t.co/ptPwkY0nzG #demoscene #javascript #webgl #coding #art
-Demoscene JavaScript https://t.co/ZCzTHEnSkj #demoscene #javascript #coding #computing #art
-Donâ€™t Be Scared Of Functional Programming https://t.co/YOOTmx7sSI #javascript #programming #FunctionalProgramming
-The Little JavaScripter https://t.co/pKFCpnxbT2 #javascript #coding #scheme #FunctionalProgramming
-How JavaScript Timers Work https://t.co/1tDE70qS15 #javascript #coding #programming
-Asynch JS: The Power Of $.Deferred https://t.co/zh4OjmJEBy #javascript #coding #programming
-Semantic UI 2.0 is out! https://t.co/vcPjBNNrEG vÃ­a @semanticui #html5 #javascript #semantic
-The Basics of Object-Oriented JavaScript https://t.co/VPdesQuhwu vÃ­a @tutsplus #javascript #coding #programming
-Object-oriented Programming https://t.co/2YG9184PGU #javascript #coding
-Cyclomatic complexity refactoring tips for javascript developers https://t.co/VUK3Q8ogfz #javascript #coding
-â€œAn Intro to Functional Programming Concepts in JavaScriptâ€ by @collardeau https://t.co/kUW20JAU8U #javascript #jquery #coding #FP
-6 Rules for Awesome Data Visualizations with Kendo UI - https://t.co/TSy3pPro29 #javascript #jquery #data #kendoUI
-Donâ€™t Return A JSON Document From The toJSON Method https://t.co/S7CMbkhsZu #jquery #javascript #json
-Detecting Online Status with JavaScript by @davidwalshblog https://t.co/DazzpcXDGx #javascript #jquery #code
-Genetic algorithm implementation in Javascript + Canvas https://t.co/xLhit2cpBk #algorithms #programming #javascript #canvas
-Chrome Experiments, several amazing web projects based on chrome technologies https://t.co/Je3enwYKto #javascript #webgl #gamedev
-Algorithmic Art Galleries https://t.co/ruvmiO11Xm #programming #computing #art #code
-Gallery of Computation https://t.co/R2pwlys36y #programming #computing #art #code
-Displayhack: real-time graphics, visual arts, motion graphics and the demoscene https://t.co/ZB1LHIzq0C #programming #computing #art #code
-Art from code - Generator.x https://t.co/P5XNGwv4RE #programming #computing #art #code
-Generative Art Links https://t.co/pkDFAJeAAx #programming #computing #art #math
-Introduction to Object-Oriented JavaScript https://t.co/ZYAk1mU9x4 #javascript #programming #developers
-jQuery Coding Standards and Best Practices https://t.co/Cb3A0TzoUg vÃ­a @abhinay_rathore #jquery #javascript #coding #code
-HTML5 Game Engines, Which HTML5 Game Engine is right for you?https://t.co/2WFtWluCWb #javascript #gamedev #webgl #html5
-BabylonJS playground, JavaScript editor to test 3d features https://t.co/4ZPLrY4GwF #javascript #3d #gamedev #webgl
-BabylonJS, JavaScript library for 3D games https://t.co/F84BM74FOn #javascript #3d #gamedev #webgl
-Android/Java: JSON HTTP Request https://t.co/7NmzYgMItq #java #android #json
-Using HTTP requests to get JSON objects in Android https://t.co/qg0QeNWupL #android #code #programming #json
-RT @javinpaul: 10 Programming Best Practices to Name Variables https://t.co/TfZaozpUoI #Java #programming https://t.co/mA1qNqthi4
-RT @SciencePorn: The future has arrived #BackToTheFuture #MartyMcFly https://t.co/VZcoMIojam
-Request JSON Android https://t.co/01vG4gXsqx #android #json
-Android JSON Parser https://t.co/8mgSDnlSyQ #android #json
-Agar.io clone written with Socket.IO and HTML5 canvas https://t.co/wQ36pRgPzr #javascript #jquery #nodejs #html5games #html5
-Including Javascript Libraries using Javascript itself https://t.co/FtRIaSjh0K #javascript #jquery #code
-VIM configuration for happy Java coding https://t.co/OzB8PKnOjp #java #programming #vim
-How to Become a JavaScript Badass https://t.co/ium5d9Inng #javascript #code #jQuery
-Mobile advertising DDoS JavaScript drip serves site with 4.5bn hits https://t.co/KeehINSsnj vÃ­a @theregister #javascript #security
-The programming and engineering skills with the highest salaries https://t.co/vHCA0fP5oO vÃ­a @bi_contributors #java #javascript #python #c
-JavaScript Goes Asynchronous (and Itâ€™s Awesome) https://t.co/KU4A0yWsC2 vÃ­a @sitepointdotcom #javascript #jquery
-THE BASS IS FOOKING RAW! https://t.co/ksvb8AtEsC vÃ­a @YouTube #funny
-Bane - What's that Song? https://t.co/laX3wkfdmJ vÃ­a @YouTube #funny
-'REDNECK AVENGERS: TULSA NIGHTS' â€” A Bad Lip Reading of Marvel's The Ave... https://t.co/nznYQCM7IL vÃ­a @YouTube #funny
-https://t.co/xEAoACQWPP The second answer is the answer #java #eclipse #tips
-Awesome! https://t.co/t76Bp4R9sC
-Everything Wrong With Avengers: Age of Ultron https://t.co/5RiTFVItWL vÃ­a @YouTube #cinemasins
-Star Wars: The Force Awakens Last Trailer (Official) #starwars https://t.co/QK2n3rIXMZ vÃ­a @YouTube
-I think this is the best motivational video ever! https://t.co/AE0COWKwih #motivation
-Just updated ienai news code, take a look at it and tell me what do you think about it https://t.co/cmcyoIQPjw #jquery #javascript
-.Ieanai news - Read news quickly http://t.co/nRcibeV7Kq #news #javascript #jquery #programming
-Rachel will allow you generate forms using only jQuery and JSON without HTML. https://t.co/20vefJHemD  #javascript #jquery #html5
-RT @9GAG: George Carlin, also one of the best comedians!  http://t.co/WdeEIiyQIH http://t.co/CQyVuZzE5v
-When I'm stuck in something and turn to see what senior developer is doing http://t.co/EHbJ1znE3u
-I love internet :D https://t.co/ksvb8AtEsC vÃ­a @YouTube
-RT @SciencePorn: By balancing temperature, humidity and lighting, a Dutch artist created a cloud in the middle of a room. http://t.co/o8y3Uâ€¦
-Terminator Genisys: Creating a Fully Digital Schwarzenegger https://t.co/2rUGgNoXMC vÃ­a @YouTube
-Wood burning With Lightning. Lichtenberg Figures! https://t.co/NhoIIQgS1U vÃ­a @YouTube
-Acoustic levitation https://t.co/VtMmnFPL2W vÃ­a @YouTube
-Want to play sports? let's sweat those neurons https://t.co/VcZAosLgVH #programming #coding #algorithms
-@NASA @MarsCuriosity Amazing video guys, nice job!
-This is a pretty cool video @NASA good work! https://t.co/RcT7AjqES6
-How those super-heroes make their work, YouTrack - The Art of Bug Tracking https://t.co/CgGFHoZ4Ho vÃ­a @YouTube #programming
-15 Fun Ways to Practice the Foreign Language You Are Studying http://t.co/Q0hWAqpY8E #languages
-I'm enjoying 'Blue Silence - Joan (Cloudwalker Remix)' on the Epic Trance channel at @diradio http://t.co/xZNmLybYwO
-How competitive in programming is your country http://t.co/IFXIrkwIEO #programming #algorithms #technology #problemsolving
-I can't hold it anymore! #algorithms http://t.co/OQpK2wS5Gi
-Regina Spektor - Oh Marcello https://t.co/r5JmZxtXnW vÃ­a @YouTube #music
-Programming is a sport too, if you want to practice it this is a good way to start http://t.co/LoPwvcee4m #programming #mindsport
-RT @SciencePorn: SPACEPORN: Milky Way behind the Ocotillo wind farm, California. Photo by Michael Shainblum http://t.co/BmgCjdBqzC
-The Importance of Algorithms https://t.co/VNvtIFBzuf by @topcoder #algorithms
-Snoop Dogg &amp; The Doors - Riders On The Storm, for those memories https://t.co/RjseBGJw1g vÃ­a @YouTube #tbt #gaming
-Mr. Mister - Broken Wings, remember the 80's? https://t.co/Z3C0CEnTGQ vÃ­a @YouTube #tbt #music
-Events of all Nov/11 (11/11) in history https://t.co/NA7SQqK56F #curiosity #numbers #facts
-The GTA 3 web page is still alive and operative, take a look: http://t.co/vavfKEKYfj #gaming #gta
-Solve some algorithmic problems to refresh your head this weekend http://t.co/S2GijuePSA #algorithms #math #programming
-Input/output with files in C++ http://t.co/aU3HAxnNWN
-Is Zero Even? https://t.co/uz2anvFkLP vÃ­a @YouTube
-If you still don't see the pattern, you need more numbers... #math #computing
-List of amateur mathematicians #math #amateur https://t.co/RPKGgKF9AI
-Science degree #math #comics http://t.co/hKVCRNvQge
-The Religious Affiliation of the 100 Greatest Rock Musicians http://t.co/uJcy7yTv9y
-Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014 https://t.co/3oE4i4b12j vÃ­a @YouTube
-11.11.11 - Numberphile https://t.co/jv9MGv2x8V vÃ­a @YouTube
-Need For Speed Underground 2 Soundtrack https://t.co/VUriLfWLS3 vÃ­a @YouTube
-Geek or Nerd ? What's the difference? | NumberHub with Hannah Fry |  Hea... https://t.co/5hxKO3yEoF via @YouTube
-Why Write Your Own Book When An Algorithm Can Do It For You?http://t.co/5G6eT7Il8i
-Who is Cortana? http://t.co/w7UVBGNmq8
-RT @SciencePorn: Science class for teenagers http://t.co/TinNQwzTm1
-Stephen Wolfram Says He Has An Algorithm For Life, The Universe And Everything. Literally! http://t.co/bQaoheX6ki #math #compsci
-RT @SciencePorn: This apple hasn't got time for your silly science experiments http://t.co/3CeGnNqtko
-I love it! https://t.co/mOLUbLnJFC
-The Unlogical: 5 Amazing Data Structures http://t.co/h5ZX59omlR
-My new JavaScript application made in 3 days, 'Hummingbird' https://t.co/GJ0H7XdNs5 #javascript #webdevelopment #programming
-My new JavaScript library in just 5 hours... https://t.co/JAAowWR2P7 #javascript #programming #webdevelopment
-Farthest journey by hoverboard - Guinness World Records https://t.co/4XJflIG23C via @YouTube
-Full Gangnam Style video animated in paper https://t.co/mWtbhCCg1V vÃ­a @YouTube
-Las voces de los libros que hemos leÃ­do resuenan dentro de nosotros mismos #libros #Literatura
-Jennifer Lopez - If You Had My Love (Official Video) https://t.co/gF7J67hLO6 via @YouTube #TBT
-Enrique Iglesias - Bailamos https://t.co/GIUwDqF7JE via @YouTube #TBT
-How Old Do I Look http://t.co/PtSiLwlimm #app #Microsoft #HowOldDoILook
-Flight Arcade http://t.co/tpxlO5V06y #games #Microsoft
-Mainfold JS: The simplest way to create hosted apps across platforms and devices http://t.co/EOHlLUzNWH
-Android Blog:  Android Wear http://t.co/3aWnsxilAB via @android
-Microsoft HoloLens: A Close Look at the Hardware https://t.co/kIZPxJOz09 via @YouTube #tech
-Introducing Microsoft Edge: The New Windows 10 Browser https://t.co/IGlbE7fkAH via @YouTube #tech
-HEXO+: Your Autonomous Aerial Camera - Drone https://t.co/Bl5QSras9v https://t.co/Tv5xTcYs4l http://t.co/r45j9qAujW
-Lee los primeros capÃ­tulos libro de ciencia ficciÃ³n 'Taneq La' #scifi #CienciaFiccion #Libros #leer http://t.co/cdZUm0otXD
-Batman v Superman: Dawn of Justice - Official Teaser Trailer [HD] https://t.co/fL19NWmybX via @YouTube
-I saw a life flash before me in 60 seconds. Itâ€™s your turn to play! #InteractiveHaiku via @TheNFB and @ARTEfr: http://t.co/9m2LIoJLJp
-RT @NASA: All weekend, weâ€™re celebrating 25 years of @NASA_Hubble on our @NASA Instagram: http://t.co/s3ME54anPZ #Hubble25 http://t.co/8QIfâ€¦
-If you want to learn to meditate correctly, these are some good instructions to start. https://t.co/Urq28Bh2ff via @YouTube #meditation
-RT @WIRED: Review: The new MacBook can't do much, but soon that'll be enough http://t.co/LqE1wYfSvq http://t.co/rar5n4Sqw9
-'@newsycombinator: Microsoft seeks to recruit autistic workers http://t.co/iueUGouib3' what?
-RT @TechCrunch: Instagram adds new photo editing tools and post notifications http://t.co/8qvTFWWZOq http://t.co/SLDm1hqRBz
-Views in Google Maps, so cool https://t.co/jaHTemevVo #WebApps #Google #technology http://t.co/8xamvBgd5p
-RT @TechCrunch: Apple Patents Learning Computer Vision For Gesture Control http://t.co/nVHS3MPX09 by @etherington http://t.co/8jZRKtiv4M
-@shanselman hahahaha good one
-RT @TeamToFollow: Researchers build aluminum battery that can be charged in one minute http://t.co/VapMU3ny7N
-RT @OleMissRebels: Remember Pac-Man? Now you can play it on campus, courtesy @googlemaps! Check it out http://t.co/7lsMoijf01
-@unbrelievable Hi Breanna, I have two questions for you, Do you write some code in your free time? What keep you motivated? Have a nice day.
-@heatherpayne Hi Heather, I have a couple of questions for you, Do you make programs in your free time? What keep you motivated? Thanks
-@pablos Hi Pablos, I have two questions for you. What keep you motivated? and What is better, useful ideas or fun ideas?. Have a nice day
-This is a very nice blog to check out: http://t.co/oEKyPZ5HPT #programming
-What? O_O The Time Traveller: https://t.co/lkVpyzognk #timetravel
-@codekat @dajbelshaw Hahahahaha, that's funny
-RT @gregsramblings: In honor of #PiDay, @saturnism &amp; I computed 100billion digits of Pi on 32vCPU/208GB @GoogleCloud VM 5.3hrs! Blog soon hâ€¦
-Incredible! 57 story building constructed in just 19 days in China https://t.co/jyoOq7D6wA #china #engineering
-Ok, this is awesome #n64memories http://t.co/iinFmhP6ds
-RT @newsycombinator: The new MacBook https://t.co/UxGCxQUfXJ
-RT @newsycombinator: Java Runtime updater now installs http://t.co/NsTADda1cy toolbar on macs https://t.co/HzDFd8ct1l
-This is a very good tutorial to build mental palaces #Memory http://t.co/Tn0cYv5yGi
-The next Marvel movies #marvel #movies @Marvel http://t.co/sxAYef0aic
-A little of social network photography. #photography #blackandwhite http://t.co/JKvH2BxaIb
-RT @newsycombinator: Gg â€“ Git Shortcuts, Colored Outputs, and More https://t.co/OhpsPfwvmY
-Amazing Ghost in the Shell landscapes #Anime #Landscape http://t.co/HDabt39l6t
-Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: http://t.co/ZHhBKrc3BD via @YouTube
-How to become a memory master | Idriz Zogaj | TEDxGoteborg: http://t.co/8uUx9zBjMX #Mnemotechnique
-The art of memory: Daniel Kilov at TEDxMacquarieUniversity: http://t.co/LIBfXZeanS #Mnemotechnique
-Memory Technique #2   How to Make Images Interesting: http://t.co/055ky0w6M0 #Memory
-Memory Technique #1: The Memory Palace: http://t.co/Kz0zRFRAVT via @YouTube #Memory
-RT @newsycombinator: Windows 93 in JavaScript http://t.co/17uWYAkDLr?
-@newsycombinator This is really cool :D
-This is cool, Mental Athletes: The Sport of Memory: http://t.co/ktuDBOltyr http://t.co/YsFT2ZvROv
-RT @newsycombinator: The $5000 Compression Challenge http://t.co/qReeXLdRYD
-This video game blow my mind. FEZ: https://t.co/oKimUdZksX #fez http://t.co/Q4ELBc469m
-Abingdon Boys School - Nervous breakdown - [JAPAN TOUR '10] http://t.co/wbA0bhHkM6 #JapaneseMusic http://t.co/jptLoOXEXt
-Another amazing Russian song, Ð’ÐµÑ€Ð° Ð‘Ñ€ÐµÐ¶Ð½ÐµÐ²Ð° - Ð ÐµÐ°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ (Vera Brezhneva - Real Life): https://t.co/UuWTppFyKx http://t.co/A6h9YqOCST
-Hacked #Portal gun actually levitates a companion cube: http://t.co/vPKr9y5A9S #hack http://t.co/vMa9CqfX4Q
-From Pixels to Actions: Human-level control through Deep Reinforcement Learning http://t.co/KNxt1M7eRM via @googleresearch
-Typical Japanese streets #Japan http://t.co/V72i8NEDcJ
-For those people that haven't seen it: https://t.co/mFXxuBqGO5 #AgeOfUltron third trailer http://t.co/Z6V0qiXxFv
-This is an amazing vegan lunch, #Escalope #Quinoa http://t.co/aro9FepUQp
-What!? Google nutrition facts!? http://t.co/vCAP0Ez12Q
-This is the best electronic music radio I've ever heard http://t.co/kuy7EneZjf @difm http://t.co/m9k5beivWQ
-Ok, that was cool 'Furious 7 - Extended First Look (HD)' http://t.co/10Eq8vrXmY
-#MakeSomeonesDayIn3Words Be my friend
-#MakeAFirstDateWeirdIn4words You are my wallpaper
-This song is nice too, good job @off_vintage http://t.co/jIRM6356OY
-Interstellar, full cast and crew, the higher score on Sci-Fi movies category @IMDb http://t.co/JJeTs3j6fg
-ÐÐ½Ð¸ Ð›Ð¾Ñ€Ð°Ðº My favorite singer...  that voice... that face @AniLorak http://t.co/3YEAwNeqRx
-My favorite russian Pop song, ÐŸÐ¾Ð»Ð¸Ð½Ð° Ð“Ð°Ð³Ð°Ñ€Ð¸Ð½Ð° - Ð¡Ð¿ÐµÐºÑ‚Ð°ÐºÐ»ÑŒ Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½: http://t.co/filjNBUW20?
-A true programmer don't create little applications, a true programmer create autonomous machines.
-Â¿How far can your mind reach? A well-trained mind can from play music to simulate videogames on it.
-Trick: If you sleep with classical music in background, seems you are sleeping longer that before, even if you only sleep two hours
-There is no time, because time is relative for everyone. If you don't have any way to see what time is it, your days will be longer
-Â¿What are you meant to be? Â¿What is your passion? #WhatIsYourPassion
-RT @IEEEorg: #TechFact: The 1st camera phone, the Sharp J-SH04, was released in Japan in 2000. http://t.co/LYiaGS2QeX
-It's not about money or be someone in life, it's about happiness
-The computers has capacity to be completely autonomous and independent. One day we will work together.
-An Introduction to Useful Bash Aliases and Functions https://t.co/vpbzDqqpER #programming #coding #bash
-How To Become A CIO or CTO https://t.co/ujmSWNcfAU #cio #cto #software #engineering #programming #it
-Emerging Information Technology Techniques Trends for 2016 https://t.co/6tw2FaIZ8W #technology #frameworks #software #SoftwareEngineering
-Emerging Information Technology Tools Trends for 2016 https://t.co/bqwDZviVyJ #technology #frameworks #software #SoftwareEngineering
-Emerging Platforms Trends for 2016 https://t.co/8V3CynFqM8 #programming #frameworks #software #SoftwareEngineering
-Emerging Language and Frameworks Trends for 2016 https://t.co/w94VI3EDyb #technology #frameworks #software #SoftwareEngineering
-Batman: The Dark Knight (2008) - Interrogation Scene https://t.co/hPfj2PFl5m #MyFavoriteMovieScenes
-The Matrix (1999) - Agent Smith Interview. https://t.co/NkI5bacfxU #MyFavoriteMovieScenes
-General Zod's Trial - Man of Steel, Amazing performance of the actor Michael Shannon. https://t.co/m5NxQci6iM #MyFavoriteMovieScenes
-Stop Trying To Be Happy https://t.co/d3aqqPh3dI vÃ­a @IAmMarkManson
-This is the place YouTubers get the indie music for their videos, it has a very cool music player too https://t.co/g6RnovSht5
-RT @JonathanDeMoor: When you fix a bug in production. https://t.co/GmO4AOjDFC
-Doctor Who - If I see one more gun https://t.co/yBJBdF39KG vÃ­a @YouTube
-How to Encourage The Evolution of Your Brain, with Rudolph Tanzi https://t.co/ht5LlPMcNH vÃ­a @YouTube
-D3.js - Data-Driven Documents https://t.co/HCXIfDe8bX https://t.co/pyfiKDCAYL
-15 Papers you should read when interested in node.js's background https://t.co/UzAJOSKOTu #javascript #nodejs #research
-RT @reinink: There are only THREE hard things in Computer Science: cache invalidation, naming things, and database schema changes.
-Out-Oh-Mat - Brainstorm | textmode https://t.co/vKyYedkKhh vÃ­a @YouTube
-jQuery Tips Everyone Should Know https://t.co/bGMvQkJ8DL #jquery #javascript #programming #coding #html5
-obsidian by xplsv https://t.co/ptPwkY0nzG #demoscene #javascript #webgl #coding #art
-Demoscene JavaScript https://t.co/ZCzTHEnSkj #demoscene #javascript #coding #computing #art
-Donâ€™t Be Scared Of Functional Programming https://t.co/YOOTmx7sSI #javascript #programming #FunctionalProgramming
-The Little JavaScripter https://t.co/pKFCpnxbT2 #javascript #coding #scheme #FunctionalProgramming
-How JavaScript Timers Work https://t.co/1tDE70qS15 #javascript #coding #programming
-Asynch JS: The Power Of $.Deferred https://t.co/zh4OjmJEBy #javascript #coding #programming
-Semantic UI 2.0 is out! https://t.co/vcPjBNNrEG vÃ­a @semanticui #html5 #javascript #semantic
-The Basics of Object-Oriented JavaScript https://t.co/VPdesQuhwu vÃ­a @tutsplus #javascript #coding #programming
-Object-oriented Programming https://t.co/2YG9184PGU #javascript #coding
-Cyclomatic complexity refactoring tips for javascript developers https://t.co/VUK3Q8ogfz #javascript #coding
-â€œAn Intro to Functional Programming Concepts in JavaScriptâ€ by @collardeau https://t.co/kUW20JAU8U #javascript #jquery #coding #FP
-6 Rules for Awesome Data Visualizations with Kendo UI - https://t.co/TSy3pPro29 #javascript #jquery #data #kendoUI
-Donâ€™t Return A JSON Document From The toJSON Method https://t.co/S7CMbkhsZu #jquery #javascript #json
-Detecting Online Status with JavaScript by @davidwalshblog https://t.co/DazzpcXDGx #javascript #jquery #code
-Genetic algorithm implementation in Javascript + Canvas https://t.co/xLhit2cpBk #algorithms #programming #javascript #canvas
-Chrome Experiments, several amazing web projects based on chrome technologies https://t.co/Je3enwYKto #javascript #webgl #gamedev
-Algorithmic Art Galleries https://t.co/ruvmiO11Xm #programming #computing #art #code
-Gallery of Computation https://t.co/R2pwlys36y #programming #computing #art #code
-Displayhack: real-time graphics, visual arts, motion graphics and the demoscene https://t.co/ZB1LHIzq0C #programming #computing #art #code
-Art from code - Generator.x https://t.co/P5XNGwv4RE #programming #computing #art #code
-Generative Art Links https://t.co/pkDFAJeAAx #programming #computing #art #math
-Introduction to Object-Oriented JavaScript https://t.co/ZYAk1mU9x4 #javascript #programming #developers
-jQuery Coding Standards and Best Practices https://t.co/Cb3A0TzoUg vÃ­a @abhinay_rathore #jquery #javascript #coding #code
-HTML5 Game Engines, Which HTML5 Game Engine is right for you?https://t.co/2WFtWluCWb #javascript #gamedev #webgl #html5
-BabylonJS playground, JavaScript editor to test 3d features https://t.co/4ZPLrY4GwF #javascript #3d #gamedev #webgl
-BabylonJS, JavaScript library for 3D games https://t.co/F84BM74FOn #javascript #3d #gamedev #webgl
-Android/Java: JSON HTTP Request https://t.co/7NmzYgMItq #java #android #json
-Using HTTP requests to get JSON objects in Android https://t.co/qg0QeNWupL #android #code #programming #json
-RT @javinpaul: 10 Programming Best Practices to Name Variables https://t.co/TfZaozpUoI #Java #programming https://t.co/mA1qNqthi4
-RT @SciencePorn: The future has arrived #BackToTheFuture #MartyMcFly https://t.co/VZcoMIojam
-Request JSON Android https://t.co/01vG4gXsqx #android #json
-Android JSON Parser https://t.co/8mgSDnlSyQ #android #json
-Agar.io clone written with Socket.IO and HTML5 canvas https://t.co/wQ36pRgPzr #javascript #jquery #nodejs #html5games #html5
-Including Javascript Libraries using Javascript itself https://t.co/FtRIaSjh0K #javascript #jquery #code
-VIM configuration for happy Java coding https://t.co/OzB8PKnOjp #java #programming #vim
-How to Become a JavaScript Badass https://t.co/ium5d9Inng #javascript #code #jQuery
-Mobile advertising DDoS JavaScript drip serves site with 4.5bn hits https://t.co/KeehINSsnj vÃ­a @theregister #javascript #security
-The programming and engineering skills with the highest salaries https://t.co/vHCA0fP5oO vÃ­a @bi_contributors #java #javascript #python #c
-JavaScript Goes Asynchronous (and Itâ€™s Awesome) https://t.co/KU4A0yWsC2 vÃ­a @sitepointdotcom #javascript #jquery
-THE BASS IS FOOKING RAW! https://t.co/ksvb8AtEsC vÃ­a @YouTube #funny
-Bane - What's that Song? https://t.co/laX3wkfdmJ vÃ­a @YouTube #funny
-'REDNECK AVENGERS: TULSA NIGHTS' â€” A Bad Lip Reading of Marvel's The Ave... https://t.co/nznYQCM7IL vÃ­a @YouTube #funny
-https://t.co/xEAoACQWPP The second answer is the answer #java #eclipse #tips
-Awesome! https://t.co/t76Bp4R9sC
-Everything Wrong With Avengers: Age of Ultron https://t.co/5RiTFVItWL vÃ­a @YouTube #cinemasins
-Star Wars: The Force Awakens Last Trailer (Official) #starwars https://t.co/QK2n3rIXMZ vÃ­a @YouTube
-I think this is the best motivational video ever! https://t.co/AE0COWKwih #motivation
-Just updated ienai news code, take a look at it and tell me what do you think about it https://t.co/cmcyoIQPjw #jquery #javascript
-.Ieanai news - Read news quickly http://t.co/nRcibeV7Kq #news #javascript #jquery #programming
-Rachel will allow you generate forms using only jQuery and JSON without HTML. https://t.co/20vefJHemD  #javascript #jquery #html5
-RT @9GAG: George Carlin, also one of the best comedians!  http://t.co/WdeEIiyQIH http://t.co/CQyVuZzE5v
-When I'm stuck in something and turn to see what senior developer is doing http://t.co/EHbJ1znE3u
-I love internet :D https://t.co/ksvb8AtEsC vÃ­a @YouTube
-RT @SciencePorn: By balancing temperature, humidity and lighting, a Dutch artist created a cloud in the middle of a room. http://t.co/o8y3Uâ€¦
-Terminator Genisys: Creating a Fully Digital Schwarzenegger https://t.co/2rUGgNoXMC vÃ­a @YouTube
-Wood burning With Lightning. Lichtenberg Figures! https://t.co/NhoIIQgS1U vÃ­a @YouTube
-Acoustic levitation https://t.co/VtMmnFPL2W vÃ­a @YouTube
-Want to play sports? let's sweat those neurons https://t.co/VcZAosLgVH #programming #coding #algorithms
-@NASA @MarsCuriosity Amazing video guys, nice job!
-This is a pretty cool video @NASA good work! https://t.co/RcT7AjqES6
-How those super-heroes make their work, YouTrack - The Art of Bug Tracking https://t.co/CgGFHoZ4Ho vÃ­a @YouTube #programming
-15 Fun Ways to Practice the Foreign Language You Are Studying http://t.co/Q0hWAqpY8E #languages
-I'm enjoying 'Blue Silence - Joan (Cloudwalker Remix)' on the Epic Trance channel at @diradio http://t.co/xZNmLybYwO
-How competitive in programming is your country http://t.co/IFXIrkwIEO #programming #algorithms #technology #problemsolving
-I can't hold it anymore! #algorithms http://t.co/OQpK2wS5Gi
-Regina Spektor - Oh Marcello https://t.co/r5JmZxtXnW vÃ­a @YouTube #music
-Programming is a sport too, if you want to practice it this is a good way to start http://t.co/LoPwvcee4m #programming #mindsport
-RT @SciencePorn: SPACEPORN: Milky Way behind the Ocotillo wind farm, California. Photo by Michael Shainblum http://t.co/BmgCjdBqzC
-The Importance of Algorithms https://t.co/VNvtIFBzuf by @topcoder #algorithms
-Snoop Dogg &amp; The Doors - Riders On The Storm, for those memories https://t.co/RjseBGJw1g vÃ­a @YouTube #tbt #gaming
-Mr. Mister - Broken Wings, remember the 80's? https://t.co/Z3C0CEnTGQ vÃ­a @YouTube #tbt #music
-Events of all Nov/11 (11/11) in history https://t.co/NA7SQqK56F #curiosity #numbers #facts
-The GTA 3 web page is still alive and operative, take a look: http://t.co/vavfKEKYfj #gaming #gta
-Solve some algorithmic problems to refresh your head this weekend http://t.co/S2GijuePSA #algorithms #math #programming
-Input/output with files in C++ http://t.co/aU3HAxnNWN
-Is Zero Even? https://t.co/uz2anvFkLP vÃ­a @YouTube
-If you still don't see the pattern, you need more numbers... #math #computing
-List of amateur mathematicians #math #amateur https://t.co/RPKGgKF9AI
-Science degree #math #comics http://t.co/hKVCRNvQge
-The Religious Affiliation of the 100 Greatest Rock Musicians http://t.co/uJcy7yTv9y
-Can Maths Predict the Future? - Hannah Fry at Ada Lovelace Day 2014 https://t.co/3oE4i4b12j vÃ­a @YouTube
-11.11.11 - Numberphile https://t.co/jv9MGv2x8V vÃ­a @YouTube
-Need For Speed Underground 2 Soundtrack https://t.co/VUriLfWLS3 vÃ­a @YouTube
-Geek or Nerd ? What's the difference? | NumberHub with Hannah Fry |  Hea... https://t.co/5hxKO3yEoF via @YouTube
-Why Write Your Own Book When An Algorithm Can Do It For You?http://t.co/5G6eT7Il8i
-Who is Cortana? http://t.co/w7UVBGNmq8
-RT @SciencePorn: Science class for teenagers http://t.co/TinNQwzTm1
-Stephen Wolfram Says He Has An Algorithm For Life, The Universe And Everything. Literally! http://t.co/bQaoheX6ki #math #compsci
-RT @SciencePorn: This apple hasn't got time for your silly science experiments http://t.co/3CeGnNqtko
-I love it! https://t.co/mOLUbLnJFC
-The Unlogical: 5 Amazing Data Structures http://t.co/h5ZX59omlR
-My new JavaScript application made in 3 days, 'Hummingbird' https://t.co/GJ0H7XdNs5 #javascript #webdevelopment #programming
-My new JavaScript library in just 5 hours... https://t.co/JAAowWR2P7 #javascript #programming #webdevelopment
-Farthest journey by hoverboard - Guinness World Records https://t.co/4XJflIG23C via @YouTube
-Full Gangnam Style video animated in paper https://t.co/mWtbhCCg1V vÃ­a @YouTube
-Las voces de los libros que hemos leÃ­do resuenan dentro de nosotros mismos #libros #Literatura
-Jennifer Lopez - If You Had My Love (Official Video) https://t.co/gF7J67hLO6 via @YouTube #TBT
-Enrique Iglesias - Bailamos https://t.co/GIUwDqF7JE via @YouTube #TBT
-How Old Do I Look http://t.co/PtSiLwlimm #app #Microsoft #HowOldDoILook
-Flight Arcade http://t.co/tpxlO5V06y #games #Microsoft
-Mainfold JS: The simplest way to create hosted apps across platforms and devices http://t.co/EOHlLUzNWH
-Android Blog:  Android Wear http://t.co/3aWnsxilAB via @android
-Microsoft HoloLens: A Close Look at the Hardware https://t.co/kIZPxJOz09 via @YouTube #tech
-Introducing Microsoft Edge: The New Windows 10 Browser https://t.co/IGlbE7fkAH via @YouTube #tech
-HEXO+: Your Autonomous Aerial Camera - Drone https://t.co/Bl5QSras9v https://t.co/Tv5xTcYs4l http://t.co/r45j9qAujW
-Lee los primeros capÃ­tulos libro de ciencia ficciÃ³n 'Taneq La' #scifi #CienciaFiccion #Libros #leer http://t.co/cdZUm0otXD
-Batman v Superman: Dawn of Justice - Official Teaser Trailer [HD] https://t.co/fL19NWmybX via @YouTube
-I saw a life flash before me in 60 seconds. Itâ€™s your turn to play! #InteractiveHaiku via @TheNFB and @ARTEfr: http://t.co/9m2LIoJLJp
-RT @NASA: All weekend, weâ€™re celebrating 25 years of @NASA_Hubble on our @NASA Instagram: http://t.co/s3ME54anPZ #Hubble25 http://t.co/8QIfâ€¦
-If you want to learn to meditate correctly, these are some good instructions to start. https://t.co/Urq28Bh2ff via @YouTube #meditation
-RT @WIRED: Review: The new MacBook can't do much, but soon that'll be enough http://t.co/LqE1wYfSvq http://t.co/rar5n4Sqw9
-'@newsycombinator: Microsoft seeks to recruit autistic workers http://t.co/iueUGouib3' what?
-RT @TechCrunch: Instagram adds new photo editing tools and post notifications http://t.co/8qvTFWWZOq http://t.co/SLDm1hqRBz
-Views in Google Maps, so cool https://t.co/jaHTemevVo #WebApps #Google #technology http://t.co/8xamvBgd5p
-RT @TechCrunch: Apple Patents Learning Computer Vision For Gesture Control http://t.co/nVHS3MPX09 by @etherington http://t.co/8jZRKtiv4M
-@shanselman hahahaha good one
-RT @TeamToFollow: Researchers build aluminum battery that can be charged in one minute http://t.co/VapMU3ny7N
-RT @OleMissRebels: Remember Pac-Man? Now you can play it on campus, courtesy @googlemaps! Check it out http://t.co/7lsMoijf01
-@unbrelievable Hi Breanna, I have two questions for you, Do you write some code in your free time? What keep you motivated? Have a nice day.
-@heatherpayne Hi Heather, I have a couple of questions for you, Do you make programs in your free time? What keep you motivated? Thanks
-@pablos Hi Pablos, I have two questions for you. What keep you motivated? and What is better, useful ideas or fun ideas?. Have a nice day
-This is a very nice blog to check out: http://t.co/oEKyPZ5HPT #programming
-What? O_O The Time Traveller: https://t.co/lkVpyzognk #timetravel
-@codekat @dajbelshaw Hahahahaha, that's funny
-RT @gregsramblings: In honor of #PiDay, @saturnism &amp; I computed 100billion digits of Pi on 32vCPU/208GB @GoogleCloud VM 5.3hrs! Blog soon hâ€¦
-Incredible! 57 story building constructed in just 19 days in China https://t.co/jyoOq7D6wA #china #engineering
-Ok, this is awesome #n64memories http://t.co/iinFmhP6ds
-RT @newsycombinator: The new MacBook https://t.co/UxGCxQUfXJ
-RT @newsycombinator: Java Runtime updater now installs http://t.co/NsTADda1cy toolbar on macs https://t.co/HzDFd8ct1l
-This is a very good tutorial to build mental palaces #Memory http://t.co/Tn0cYv5yGi
-The next Marvel movies #marvel #movies @Marvel http://t.co/sxAYef0aic
-A little of social network photography. #photography #blackandwhite http://t.co/JKvH2BxaIb
-RT @newsycombinator: Gg â€“ Git Shortcuts, Colored Outputs, and More https://t.co/OhpsPfwvmY
-Amazing Ghost in the Shell landscapes #Anime #Landscape http://t.co/HDabt39l6t
-Top hacker shows us how it's done | Pablos Holman | TEDxMidwest: http://t.co/ZHhBKrc3BD via @YouTube
-How to become a memory master | Idriz Zogaj | TEDxGoteborg: http://t.co/8uUx9zBjMX #Mnemotechnique
-The art of memory: Daniel Kilov at TEDxMacquarieUniversity: http://t.co/LIBfXZeanS #Mnemotechnique
-Memory Technique #2   How to Make Images Interesting: http://t.co/055ky0w6M0 #Memory
-Memory Technique #1: The Memory Palace: http://t.co/Kz0zRFRAVT via @YouTube #Memory
-RT @newsycombinator: Windows 93 in JavaScript http://t.co/17uWYAkDLr?
-@newsycombinator This is really cool :D
-This is cool, Mental Athletes: The Sport of Memory: http://t.co/ktuDBOltyr http://t.co/YsFT2ZvROv
-RT @newsycombinator: The $5000 Compression Challenge http://t.co/qReeXLdRYD
-This video game blow my mind. FEZ: https://t.co/oKimUdZksX #fez http://t.co/Q4ELBc469m
-Abingdon Boys School - Nervous breakdown - [JAPAN TOUR '10] http://t.co/wbA0bhHkM6 #JapaneseMusic http://t.co/jptLoOXEXt
-Another amazing Russian song, Ð’ÐµÑ€Ð° Ð‘Ñ€ÐµÐ¶Ð½ÐµÐ²Ð° - Ð ÐµÐ°Ð»ÑŒÐ½Ð°Ñ Ð¶Ð¸Ð·Ð½ÑŒ (Vera Brezhneva - Real Life): https://t.co/UuWTppFyKx http://t.co/A6h9YqOCST
-Hacked #Portal gun actually levitates a companion cube: http://t.co/vPKr9y5A9S #hack http://t.co/vMa9CqfX4Q
-From Pixels to Actions: Human-level control through Deep Reinforcement Learning http://t.co/KNxt1M7eRM via @googleresearch
-Typical Japanese streets #Japan http://t.co/V72i8NEDcJ
-For those people that haven't seen it: https://t.co/mFXxuBqGO5 #AgeOfUltron third trailer http://t.co/Z6V0qiXxFv
-This is an amazing vegan lunch, #Escalope #Quinoa http://t.co/aro9FepUQp
-What!? Google nutrition facts!? http://t.co/vCAP0Ez12Q
-This is the best electronic music radio I've ever heard http://t.co/kuy7EneZjf @difm http://t.co/m9k5beivWQ
-Ok, that was cool 'Furious 7 - Extended First Look (HD)' http://t.co/10Eq8vrXmY
-#MakeSomeonesDayIn3Words Be my friend
-#MakeAFirstDateWeirdIn4words You are my wallpaper
-This song is nice too, good job @off_vintage http://t.co/jIRM6356OY
-Interstellar, full cast and crew, the higher score on Sci-Fi movies category @IMDb http://t.co/JJeTs3j6fg
-ÐÐ½Ð¸ Ð›Ð¾Ñ€Ð°Ðº My favorite singer...  that voice... that face @AniLorak http://t.co/3YEAwNeqRx
-My favorite russian Pop song, ÐŸÐ¾Ð»Ð¸Ð½Ð° Ð“Ð°Ð³Ð°Ñ€Ð¸Ð½Ð° - Ð¡Ð¿ÐµÐºÑ‚Ð°ÐºÐ»ÑŒ Ð¾ÐºÐ¾Ð½Ñ‡ÐµÐ½: http://t.co/filjNBUW20?
-A true programmer don't create little applications, a true programmer create autonomous machines.
-Â¿How far can your mind reach? A well-trained mind can from play music to simulate videogames on it.
-Trick: If you sleep with classical music in background, seems you are sleeping longer that before, even if you only sleep two hours
-There is no time, because time is relative for everyone. If you don't have any way to see what time is it, your days will be longer
-Â¿What are you meant to be? Â¿What is your passion? #WhatIsYourPassion
-RT @IEEEorg: #TechFact: The 1st camera phone, the Sharp J-SH04, was released in Japan in 2000. http://t.co/LYiaGS2QeX
-It's not about money or be someone in life, it's about happiness
-The computers has capacity to be completely autonomous and independent. One day we will work together.
+
+RT @KikeCruzR: Novia es novia, las demás que ladren🐶.
+No me explico cómo cabe tanta maldad en una persona tan pequeña.
+RT @RiversideAgency: Si te gustó la entrevista de @eugeniazicavo a Mariana Enriquez en #Libroteca mañana venite a la firma de ejemplares https://t.co/55CjRGrtWI
+RT @corinacgp: Acabo de percatarme que mi vida es un constante "te pintaron pajaritos en el aire."
+Pero que mala es Deborah, ni el hermanito se salva @vergaragabriela #LasAmazonas
+RT @AurynBsAsArg: ¡Que ganas de ver a @AurynOficial! #QueremosAAurynEnARG please! @CarlosAuryn @BlasAuryn @DaniAuryn @DavidAuryn @AlvaroAuryn @WarnerMusicES
+RT @MeridianoTV: #FutVe || Atlético bailó y goleó a Táchira en el Brígido (+Video) https://t.co/A51VnQoShp https://t.co/WOknEs329O
+@aguuvalverde yo llevo las esposas
+User quería terminar Scream, sorry, ya no te abandono Lottie. https://t.co/xe7wwNIS5C
+RT @saludhernandezm: Lo que sería estupendo para el país por el ahorro de plata, por evitar dinero sucio de mermelada,es no hacer plebiscito. Es tramposo.
+Jajajauajauajajanauajaaa ! https://t.co/JYHI6tls7X
+RT @b3arcrazy: @t3ddyyyyy @Christian_fig @PyongLeeTV @FaellMoreira @FeCastanhari @LoiraNoob @Kefera @gustastockler TO MALUCAAA <3 https://t.co/gBRrHVyek9
+RT @Mvc___: El interés de mi perdiste
+Que pereza me da todo
+RT @elrubius0000: ¿ Estas SOLTERO/A ? Consigue aqui tu pareja ideal. -> https://t.co/D7V0pYb9WY . https://t.co/necjAflMjm
+@BelxR5 3 AÑOS HAMIGOOO
+@FreddieMachuca jajajaja 😅
+RT @NestorMoralesC: Presidente @JuanManSantos pide un debate con altura. Y después medio gabinete y el jefe del plebiscito dicen que opositores son fascistas(!)
+RT @BarbieHarp: Mi vida es un: "pero bueno, ya paso" constante.
+Que loca que esta mi kati
+RT @ParejaCursis: A veces Dios borra algo de tu vida para darte algo mucho mejor.
+RT @JUPNacionalOK: Gracias a la lucha estudiantil se implementa el boleto educativo en la UNLP!
+Que linda tarde con las gordas 💘
+RT @CattaLuceriiina: @LuceroMexico Eres la mejor😍🔝
+RT @santipacee: Porque se tapan la cara en las fotos? La Concha de tu puta madre
+RT @didi1711_: Buenos días a TODOS... No olviden regalar una sonrisa 😊 #FelizViernes https://t.co/I9N7hpB5NF
+RT @StephanieeeMA: Tarde o temprano se acaba notando cuándo le importas a alguien y cuándo no...
+@MarrFarias_ aaaah hola martiiin 😂😂😂 te quiero tanto pelotudo 😂
+@Hardy5aOMG Es por "El NOOB" :v
+@Toor_RB bueno... haha quizais algún día teñas a oportunidade de verme así
+RT @JuanmaSanchez9: Q aburrimiento
+RT @apeemeene_: Cuando no sepas que decirme, bésame.
+RT @vickymartinezcl: Con el bajón que tengo estoy para fisurar tempra
+Pfff que mal todo jdrrr
+RT @SBen70: #Agotados Ellos estan agotados de hambrear a la Argentina. El litro de leche en Argentina sale U$S 1.20. En Alemania U$S 0.83
+RT @2010MisterChip: IDV 0-0 ATN (1') - Arrancó la primera final en la historia de la Copa Libertadores sin brasileños, ni argentinos, ni Olimpia, ni Peñarol.
+RT @esposxcaro: 15 - Mica Suarez 🙈 RT si te parece linda, fav si no🙈 https://t.co/D0lUMtJJpK
+RT @barriosvd02: #NecesitoDineroPa ir algun dia a Hogwarts https://t.co/0hqqvrlv73
+Hoy me iba a cortar el pelo y me re colgue
+RT @lukepasiva: Recuerdan cuando Michael y Luke hicieron una guerra de selfies https://t.co/rPqnT9Vc9u
+RT @LajoaquiMc: La gente que me ama me lo demuestra con mucho odio
+Tiene buen pedorro la #LadyCoppel, aunque en mi trabajo predomina #ladyoxxo
+Gari si vez esto por favor vuelve a casa 😭
+RT @Santiago7373737: Hace 206 años se Dió el !Grito! de Independencia y Hoy Chocoanos Dan Grito! de Protesta Por Abandono del Estado. https://t.co/ca274OXRW0
+Mi hermano todo bien con que toque la guitarra pero que no se le ocurra cantar porque lo arruina
+RT @arrobasolutions: 3o. Asegurate de cubrir con todos los requisitos de la prepa que hayas elegido y aun asi no cantes victoria. #UANLporTecmilenio
+No celebrar mi cumpleaños obv #ParaguayNeedsMagcon https://t.co/YOqIhaugaP
+RT @FlorDeBelieber: "Ese Justin Bieber solo te gusta por moda" -Mi mamá hace 6 años. No por moda madre, es sentimiento puro😌👌 #MTVHottest Justin Bieber
+@vanessaabigail3 amigaaaa jajaja https://t.co/JPv3qOv0nV
+Jajaja me chupa un huevo igual xD para mi es sólo mi compañera
+noventa y tres perrie #MTVHottest Little Mix
+RT @URSULXx: por los que no superamos Scallison WE MISS TEEN WOLF https://t.co/HVaRCx4VzW
+RT @mayate_cabron: Mayate y cabron descripción gráfica https://t.co/3MJj6BkbIZ
+Porno-free !!!: Adolescente rubia con grandes tetas naturales follada https://t.co/q042B7tiZj
+RT @AlejandroZ_: Es tan yo, que me sorprende. Nunca me cansaré de tener este fragmento presente. http://t.co/dYajz8WRG0
+BASTA DE PAJEROS! *foto de orto con hilo dental rojo*
+Viviendo Su Vida Al Maximo La Amo Tanto @CoriMusic https://t.co/ajC8YZd2vY
+No confío en los camiones sin calcomanías del demonio de Tasmania
+Vamos mi verdee💚💚
+I liked a @YouTube video from @ag_bean3r https://t.co/MTrZB7nzPm Noob más hardcore 3 | capítulo 15 | haciendo el putero
+RT @ROSEDMARY: #NecesitoDineroPa #TibisayFechaYA #MiercolesDeGanarSeguidores Ricardo Menéndez #CosasQueMasOdio Big Mac Los Simpson Kerly Ruiz
+RT @JusticieroCland: [Foto] Tu me violaste Liberan a Sacerdote depredador en Oaxaca Víctima lo encara [Artículo] https://t.co/dkGy24Jr0j https://t.co/btRoWO4pYy
+Andaba deprimida pero recordé que mañana hay nuevo capítulo de Mr Robot y se me pasó.
+RT @gustavomenendez: Amigos de 1ra hablando de la vida, del presente y del futuro @ArielSujarchuk @Nardini_Leo @smaggiotti @WalterFesta_ https://t.co/hoVtQvjM6e
+RT @ThomasDangel: Desde #Bejuma en Asamblea junto al Alcalde @Bejumero, organizándonos para el 20% ¡Tibisay danos la fecha! https://t.co/BvA9D0rknJ
+RT @GH2016AMERICA1: Seguro Los Fan De Luifa que están en la gala son pagados para que no se sienta mal jajajaja Forros #GH2016
+RT @zloudlouis: la foto de louis con ese niño me dejo así https://t.co/eySH68YGXe
+RT @jucaviapri: Que turbo joyaza que vaya a haber gasolineras Oxxo 😂... Me interesa mucho ver cuales más habrá 🤔
+se os veía a las dos tan cansaditas en el Periscope... Descansad mucho! Buenas noches @SoniaSweetC @AlbaSweetC 💙💗
+Despues no me vengas a correr con que no te doy bola! 😠
+23. Casi muero de meses por convulsiones en los brazos de mi madre y llora siempre que se acuerda, lo siento mamá #MTVHottest Fifth Harmony
+Y cada vez menos.. https://t.co/lByECo6afW
+Hoy Táchira jugó a la Daniel Farías combinado con Jaime de la pava.
+RT @Aria5HJauregui: Podrían dar Rt para que Luar pueda decirle a sus hijos... #MTVHottest Fifth Harmony https://t.co/iHZzgcWuQQ
+Pero la cosa esta en cambiarlo
+Cada RT es un voto! #DulceMaria #DulceMariaTrendy #KCAMexico https://t.co/itvAwXhh8z
+RT @Ograffe: #ResteadosConOscar porque detenerlo es abuso/atropello y defenderlo es defender la razón y la justicia Oscar debe tener libertad plena!
+RT @tioironhomie: Cuando estás en la peda y alguien pone rolas de Vicente Fernández. https://t.co/TtX8OhQ2K4
+RT @GONZ4L0VE: esto me hace acordar a cuando elena se imaginó a agustin y a ella en el paraíso ay no paren me fui a llorar
+RT @teleSURtv: #Blogs por @carlosaznarez | Argentina: Cien ollas populares contra el hambre neoliberal https://t.co/OKnp1qoWZO https://t.co/en3jhD2K3L
+RT @kevsho9: Tengo celular nuevo 😍😍😍
+Tropezar no es malo, encariñarte con la piedra si. #Buenasnoches
+Ahí viene el que te gusta, actúa normal: 😂😂😂 https://t.co/kt6oHMOnxR
+Me hubiese encantado.
+ZO Tránsito complicado en Eje 1 Norte de Circuito Interior al Metro Pantitlán. https://t.co/mv9fNvTsQ1
+RT @Fam_Unidas_AC: #AlertaAmber Buscamos a Oscar Pérez del Angel 11años #Desap 15/7/16 #Temamatla #Edomex ¿Lo has visto? @gina_serrano https://t.co/V0cSSreFtc
+➡Barras 50% descuento ➡Lista Free ➡Pulseras de acceso rápido ➡ Lista de Cumpleaños info: 2644190697 Agustín Ginestar https://t.co/RTJIXY9980
+RT @iRazasdePerros: Raza: Bull Terrier Origen: UK Peso: 24 y 28 Kg Tamaño: Mediano Carácter: Equilibrado obediente. testarudo, amigable. http://t.co/MtR1Z9v3Cy
+Eres el mejor hombre,te amo cielo🌙😻. https://t.co/HFP4JjnW8i
+RT @karlaceliss: Voy a extrañar estas tostadas! https://t.co/YFzhTp0Wuh
+RT @mariobautista_: Siempre trabajando 💪🏻
+RT @helenmblanco: Sigue,@Leona_Despierta @mariadelros22 @2006_patty @lydiaya206 @wolverinemon02 @polymarch39 @Pedrosky42 @mayvp40 .#RT https://t.co/iURrOedjXw
+RT @Crytek180: #DiosdadoNarcoFRACASADO merece 1 OSCAR como el mayor vago que ha tenido inasistencias en la actual Asamblea Nacional https://t.co/9aMUMT9KVO
+@dhiessycaa_ veremos 🤔
+“En El Salvador se debe llevar a cabo alguna aplicación de justicia transicional”. Blanca García de Pro-Memoria Histórica. #ITVX
+RT @noa_deejay: #SaleFiesta + Super Hobby = Noche Del Amigo PERFECTA
+RT @bbcmundo: Turquía declara tres meses de "estado de emergencia" para actuar contra los golpistas https://t.co/QrqPvicOBu https://t.co/7fh6MeRfC5
+RT @KattyMayorga: Somos de quién nos encuentra en pedazos y nos arma hasta dejarnos completos, de quién no nos cambia, pero nos mejora
+Hola @lazeta977📻 votamos en el #Zetometro por #TengoQueColgar de @BANDA_MS @enamoradasdalan ❤ @ANDRESBANDAMS
+RT @Valentinapr02: El culo* jajajaja https://t.co/KFi1GE6lz2
+RT @queen_celosa: No importa la edad que tenga, siempre le tendré miedo a mi mama y sus armas domésticas 😰😰🔨
+RT @ToreroCabezon: "@Solteraccsrica: Feliz tarde amores https://t.co/YtVd2wzNvr" Me FASCINA tu COLA d SIRENA y como GOZAS el #CABEZÓN entre ellas!! 😜
+RT @datosnacional: ⚽ GOOOOOOL GOOL CANTALO GOOOOL DE BERRÍO GOOOLLL DE NACIONAL. https://t.co/XJF6GWE2x6
+Me re enoje con Mateo.
+RT @pecesdeciudad85: Cuenta de @diegosalgadorib suspendida por denunciar que #Moreno no paga impuestos. ¡La libertad de expresión Avanza! https://t.co/6cgtjIPD2S
+Los Amo #SuAmistadAnteTodoBrugravayar
+245 yo también te extrañoo!!
+RT @camilamarryme: cuando las chicas le entregaron el premio a Justin #MTVHottest Fifth Harmony https://t.co/WhszW3Husz
+supongo que si me lo propongo me ira mejor yieee 🙈
+RT @JimeOrtega_: Yo podría ver una y mil veces todas las películas de Marvel, es increíble lo buenas que son😍🔝🔝🔝🔝
+RT @il_profe: Todo lo que puteamos al negro hermoso de BERRIGOD. Que nos perdone.
+Yo conozco sus defectos, sus más íntimos secretos !
+RT @SoldadoDeDante: Vieron como lo inflan a Luifa? Cae y lo sacamos, porque cada vez lo inflan más y esto no me gusta para nada #negociacionengh #GH2016
+@ealvarezal @dannyviLe esperando la evolución
+@baby_boy_6969 para que esperar si desde ahora te las puedo mandar y si pudiera soplaria esa velita
+Difumina las estrías en un 2x3 https://t.co/4LDUg79p8O https://t.co/WSdKBSmxSG
+@GH16Arg yasmila
+@GermanGarmendia si que bueno :)
+Necesito que se vaya Yasmila chavon no la aportó #SiDigoAmistadDigoCampeones1G
+RT @pabloschi: Se queda Luifa, obvio
+RT @ElJuanpaZurita: Siguiendo mucha mucha gente, RT a mi tweet fijado para que te siga 😬🙌🏻 https://t.co/7xpwrTbLvt
+Quiero cambiarme de @ pero no se que poner
+RT @RogerChevez: @Chaveztoon Colón no descubrió América, Lempira no defendió Honduras (Tampoco era Maya)...Lo único cierto es que JOH es un Ladron y Corrupto
+@Artvxin DIIOOOOOOOOOS QUE MONA ;-;
+RT @La_chica_velcro: Si usted es obligado a llenar formularios, haga el favor de inventarse nombre y firmas, no sean malitos. https://t.co/SefFKAraHb
+¡Segundo Tiempo! #Amistoso #SantaTecla 5-0 #Mictlán Abreu anotó al 1' y abandonó al 5'
+Ahora ya no tengo que esperar a la clase del viernes para meditar con mi maestro https://t.co/wNF6fJDGIU
+Me caigo, me levanto; me equivoco, aprendo; me han herido, pero estoy vivo. Soy humano, no soy perfecto, pero estoy agradecido
+Usted no cometió un ‘error’, COMETIÓ UN DELITO”, corrige Jenaro Villamil a Peña Nieto https://t.co/kCAIGmorw9
+RT @ZogoGaitan: 8 PASOS PARA SER FELIZ: 1-Hace 2-Lo 3-Que 4-Se 5-Te 6-Cante 7-El 8-Orto
+RT @william345_yadi: La vida aveces es muy injusta con personas que de verdad no han podido ser mejor persona.
+@MADbien @RMadridi7mo @Cristiano @dimpayet17 era expulcion ese jugador o el que fuera era la micion
+"@luzmaria_Rr: "Si nada nos salva de la muerte, al menos que el amor nos salve la vida"."
+RT @beaacrvg: GOOOOOOOLLLL PORRAAAAAAAAAA
+RT @CDF_cl: AHORA: @M_EscobarAlvear nos cuenta desde Quilín los detalles de una nueva reunión entre la ANFP y el Sifup #CDFNOTICIAS
+realizar as metas https://t.co/pQYYs5FHWo
+De noche me gusta mirar él cielo ver las estrellas y saber que aunque estas lejos de mí es él mismo cielo lleno de estrellas que tu miras
+RT @vigevaniputin: Juanpa, si esta foto llega a +200 rt's, me seguis? Te amo muchísimo, gracias💓💫 @juanpabarbot https://t.co/t06zZ6rT6v
+igual no andaba , safé
+RT @ASuicideBoy: Mientras todos reían, ella quería llorar, pero fingió reír con ellos
+@TownGamePlay a ese solo se lo consigue en Europa no?
+@laotrafran el Alberto mayol tiene algún parentesco con el ex ministro de Piñera?
+RT @mariposa2997: Yo debería de estar lavando trastes .-. /c pone a votar My #TeenChoice vote for #ChoiceInternationalArtist is #SuperJunior!
+RT @zinoscrew: -Horóscopo Zino: Necesitas preocuparte por tu físico, come menos. ¡DEJA LAS GRASAS! - https://t.co/984iS8CUfd
+ya sabennn https://t.co/L06g6xqBL3
+RT @bazaaanagustina: Que negros tan culiados, un asco el parque hoy😣
+Juntada con los pibes !
+RT @DarkielVoice: Dame tu mano, dejame guiarte
+Entrega del Premio José Luis Coto Conde a la mejor investigación en el campo archivístico. 🙂🙂🙂 https://t.co/pbilTJ5MYq
+RT @YLosReales: Giuseppe Yoffreda no ha enfrentado consecuencias por estos guisos porque es una ficha clave de Diosdado Cabello. https://t.co/SKQ9VsNPuB
+RT @diegolacheta: Todavia no salio #PokemonGo en argentina y.... https://t.co/WWpvTrX3g7
+RT @_cmfm: El que no se ilusiona no sufre
+Hamburguesas con amigos 😁
+RT @DulceMaria: Lo único que realmente "dice algo" son los hechos ,no las palabras...🗣🗣🗣
+RT @tauro_hn: #tauro: odias que te comparen con nadie. Sabes que eres único y tal cual. Si no lo valoran ellos se lo pierden.
+No me pasa❌ https://t.co/SYofuVHwsC
+Nesecito descargarme queceyo
+RT @enlacemag: Saludos! Próxima semana reunión con Autoridades Gobernación, tema: Aumento cobertura HCM!
+RT @Cajafresca: Se siente horrible cuando te lastiman el ego. No puedes quejarte porque es el ego, pero tampoco deja de calar.
+vamos luifa !!!!
+RT @Imfawkess: #SinQuererYo Estoy nalgona y chichona.
+RT @estacasanoeshot: Pal Rasmussen: "el precio del petróleo se ve afectado por conflictos y guerras" https://t.co/6ahKLlZaLD https://t.co/YemzXDu4m0
+@the_pabbl @luscalese14 ojo que el sigue a lucíaS
+Me ha gustado un vídeo de @YouTube ( https://t.co/Za8hwOjudE - Loquillo - En el final de los días).
+Mundobolsaplus: https://t.co/WgjXguVruc #forex #trading Gana dinero en piloto Automático Sistemas,Estrategias,Rob… https://t.co/h3eMCoAnSQ
+A esos @venadosfc les están devolviendo la trolleada con goles los del @ClubAmerica #TuPeorPesadilla #100mpreAguila #MiercolesDeFut
+RT @DimeCurly: No tengo ganas de nada, solo de irme de este país.
+Que lindo estar tan bien
+RT @agusstindiaz: El Derby siempre al 🔝🔝👑👑 https://t.co/V0Ed7RskBr
+RT @ftourbieber: Otra oportunidad para conocerlo. #ColombiaWantsPurposeTour @JBieberColombia @OcesaColombia @moveconcertsco @T310conciertos
+@JulianSerrano01 @TecnopolisNC ahí voy a estar amor
+RT @DearKerim: Expresión fascinante que traspasa pantalla y toca el corazón 😍😍😘😘@garc_09 @pena_rous @YessiAguilar28 @MontseBoran @29_akane @YenyMiron
+@MVitanzi si Jajaja 😂
+RT @valenngallardo: Zoee la mas linda 😚
+RT @fdbedout: Y para terminar la noche, invocamos tu presencia. https://t.co/zimJA7NeCF
+las calles de mi barrio se llenaron de olor a asado cuando antes en algunas había terrible olor a verdulería
+#Cafecito Con #Turrón Y #Torta https://t.co/fLKIRYaB0C
+guada anton cantando para vos una parte me da mucha ternura #ValentinaZenereVillana #KCAMexico
+RT @RooPfeiffer: Disculpa, jefas
+Gracias, gracias, gracias! Hoy y siempre, gracias @BettsimarDiaz https://t.co/XX8lyXCW4Y
+RT @Zodiacocompleto: Aunque no lloren, les duele. - Tauro, Cáncer, Virgo, Escorpio.
+RT @antonelaunrein: Uy me pintó el sueño
+Ya va a ser tarde...
+@Lucass_Nahuuel compa feliz dia hermano de otra madre se te re quiero con todo el cora conta siempre conmigo
+Jajajaja yo estab igual xD https://t.co/Z5Dxe2xRwt
+RT @Iaregia: No entiendo cómo alguien dice quererte pero no hace nada para demostrarlo.
+¿Qué consejo les darías a los niños hoy en día? — Que estudien, es lo único que pueden hacer para mejorar su futur… https://t.co/OooKFbcKgu
+RT @Aldrooo: Ya quiero mandar el liceo a la puta madre
+Tanto Lucifer y demonio en esa serie me hizo acordar de Quiste Sebáceo, el rockero satánico de Capusotto que ceceaba.
+Tengo ganas de vomitar la concha que me pario
+@MaraaCampo13 Kajajajajjajajajajajajajajajaja se me ponen brillosos del susto
+RT @LucaasGuffanti: Es re positiva siempre y me entiende como nadie

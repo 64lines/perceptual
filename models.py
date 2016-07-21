@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: latin-1 -*-
 import urllib
-import psycopg2
+
 from utils import get_file_lines
 from settings import DB_PORT
 from settings import DB_HOST
@@ -27,6 +27,8 @@ class DatabaseManager:
         self.connection = None
 
     def open_connection(self):
+        import psycopg2
+
         try:
             self.connection = psycopg2.connect(
                 database=DB_INSTANCE,
@@ -142,11 +144,12 @@ class BagOfWordsAnalizer:
     def analyze_text(self, text):
         list_words = text.split(" ")
         for word in list_words:
-            word = word.lower()
-            if word in self.list_positive_words:
-                self.__polarities["positive"] += 1
-            elif word in self.list_negative_words:
-                self.__polarities["negative"] += 1
+            if word:
+                word = word.lower()
+                if word in self.list_positive_words:
+                    self.__polarities["positive"] += 1
+                elif word in self.list_negative_words:
+                    self.__polarities["negative"] += 1
 
         if self.__polarities["positive"] > self.__polarities["negative"]:
             result = "positive"
