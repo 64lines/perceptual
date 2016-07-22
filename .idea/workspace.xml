@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19117bed-871b-41be-b9c7-fe4f37a174e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manual_classifier.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inputs/example_tweets.txt" afterPath="$PROJECT_DIR$/inputs/example_tweets.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inputs/negative_words_es.txt" afterPath="$PROJECT_DIR$/inputs/negative_words_es.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inputs/positive_words_es.txt" afterPath="$PROJECT_DIR$/inputs/positive_words_es.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models.py" afterPath="$PROJECT_DIR$/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/perceptual.py" afterPath="$PROJECT_DIR$/perceptual.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manual_classifier.py" afterPath="$PROJECT_DIR$/manual_classifier.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
     </list>
     <ignored path="perceptual.iws" />
@@ -33,7 +27,7 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-495">
               <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
               <folding>
                 <element signature="e#44#57#0" expanded="true" />
@@ -42,11 +36,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manual_classifier.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="perceptual.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/perceptual.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="e#77#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manual_classifier.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manual_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            <state relative-caret-position="428">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,7 +81,7 @@
       <file leaf-file-name="negative_words_en.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputs/negative_words_en.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
+            <state relative-caret-position="71715">
               <caret line="4781" column="6" selection-start-line="4781" selection-start-column="6" selection-end-line="4781" selection-end-column="6" />
               <folding />
             </state>
@@ -75,18 +91,8 @@
       <file leaf-file-name="negative_words_es.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputs/negative_words_es.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="3870">
               <caret line="258" column="9" selection-start-line="258" selection-start-column="9" selection-end-line="258" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="positive_tweets.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inputs/positive_tweets.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -102,20 +108,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="positive_words_en.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inputs/positive_words_en.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="1988" column="8" selection-start-line="1988" selection-start-column="8" selection-end-line="1988" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="positive_words_es.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputs/positive_words_es.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="7425">
               <caret line="495" column="6" selection-start-line="491" selection-start-column="5" selection-end-line="491" selection-end-column="6" />
               <folding />
             </state>
@@ -125,7 +121,7 @@
       <file leaf-file-name="negative_tweets.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputs/negative_tweets.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="20745">
               <caret line="1383" column="52" selection-start-line="1383" selection-start-column="52" selection-end-line="1383" selection-end-column="52" />
               <folding />
             </state>
@@ -153,13 +149,13 @@
         <option value="$PROJECT_DIR$/manual_sentiment_analyzer.py" />
         <option value="$PROJECT_DIR$/sentiment_analyzer.py" />
         <option value="$PROJECT_DIR$/perceptual.py" />
-        <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/inputs/example_tweets.txt" />
         <option value="$PROJECT_DIR$/inputs/negative_words_en.txt" />
         <option value="$PROJECT_DIR$/inputs/positive_words_es.txt" />
         <option value="$PROJECT_DIR$/inputs/negative_words_es.txt" />
         <option value="$PROJECT_DIR$/manual_classifier.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
       </list>
     </option>
   </component>
@@ -194,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,7 +226,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -449,6 +445,88 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+          <folding>
+            <element signature="e#44#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manual_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/example_tweets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/negative_words_en.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71715">
+          <caret line="4781" column="6" selection-start-line="4781" selection-start-column="6" selection-end-line="4781" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/negative_words_es.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="258" column="9" selection-start-line="258" selection-start-column="9" selection-end-line="258" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/positive_tweets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/neutral_tweets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/positive_words_en.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29820">
+          <caret line="1988" column="8" selection-start-line="1988" selection-start-column="8" selection-end-line="1988" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/positive_words_es.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7425">
+          <caret line="495" column="6" selection-start-line="491" selection-start-column="5" selection-end-line="491" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs/negative_tweets.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20745">
+          <caret line="1383" column="52" selection-start-line="1383" selection-start-column="52" selection-end-line="1383" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -509,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -582,15 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,33 +666,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/perceptual.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding>
-            <element signature="e#77#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
-          <folding>
-            <element signature="e#44#57#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inputs/positive_words_en.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="29820">
           <caret line="1988" column="8" selection-start-line="1988" selection-start-column="8" selection-end-line="1988" selection-end-column="8" />
           <folding />
         </state>
@@ -632,7 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inputs/positive_tweets.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="300">
           <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
           <folding />
         </state>
@@ -648,7 +695,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inputs/negative_tweets.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="20745">
           <caret line="1383" column="52" selection-start-line="1383" selection-start-column="52" selection-end-line="1383" selection-end-column="52" />
           <folding />
         </state>
@@ -656,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inputs/negative_words_en.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
+        <state relative-caret-position="71715">
           <caret line="4781" column="6" selection-start-line="4781" selection-start-column="6" selection-end-line="4781" selection-end-column="6" />
           <folding />
         </state>
@@ -664,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inputs/positive_words_es.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="7425">
           <caret line="495" column="6" selection-start-line="491" selection-start-column="5" selection-end-line="491" selection-end-column="6" />
           <folding />
         </state>
@@ -672,7 +719,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inputs/negative_words_es.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="3870">
           <caret line="258" column="9" selection-start-line="258" selection-start-column="9" selection-end-line="258" selection-end-column="9" />
           <folding />
         </state>
@@ -688,8 +735,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/manual_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        <state relative-caret-position="428">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-495">
+          <caret line="145" column="31" selection-start-line="145" selection-start-column="31" selection-end-line="145" selection-end-column="31" />
+          <folding>
+            <element signature="e#44#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perceptual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="e#77#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
           <folding />
         </state>
       </provider>

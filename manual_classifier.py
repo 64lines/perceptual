@@ -54,9 +54,5 @@ class ManualClassifier:
 
         self.add_words(positive_words_path, negative_words_path)
 
-
-
-
-
 analyzer = ManualClassifier()
 analyzer.setup()
