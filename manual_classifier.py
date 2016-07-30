@@ -1,58 +1,37 @@
 #!/usr/bin/python
 from utils import get_file_lines
 
-class ManualClassifier:
-    def __init__(self):
-        self.POSITIVE_TEXT = 'positive'
-        self.NEGATIVE_TEXT = 'negative'
-        self.language = 'en'
-        self.list_positive_words = []
-        self.list_negative_words = []
+messages = {
+    'lang': 'What is the language you want to work with? (en/es): ',
+    'word': 'Please include a polarity and a word in this format: "p - word"\n',
+    'saved': 'The word has been saved in'
+}
 
-    def add_words(self, positive_words_path, negative_words_path):
-        another = True
-        while another:
-            path = ""
-            include_word = True
+polarities = {
+    'p': 'positive',
+    'n': 'negative'
+}
 
-            separator = " - "
-            input = raw_input('Please include a polarity and word (e.g. "p - word"): ')
-            polarity = input.split(separator)[0].lower()
-            word = input.split(separator)[1].lower()
+def get_element(text, pos):
+    return text.split(" - ")[pos].lower()
 
-            if polarity == 'p':
-                path = "inputs/%s_words_%s.txt" % (self.language, self.POSITIVE_TEXT)
-                self.list_positive_words = get_file_lines(path)
+def message(id):
+    return messages[id]
 
-                if word in self.list_positive_words:
-                    include_word = False
-            elif polarity == 'n':
-                path = "inputs/%s_words_%s.txt" % (self.language, self.NEGATIVE_TEXT)
-                self.list_negative_words = get_file_lines(path)
+def build_path(lang, polarity):
+    return "inputs/%s_words_%s.txt" % (polarities[polarity], lang)
 
-                if word in self.list_negative_words:
-                    include_word = False
+def text_format(text):
+    return "\n%s" % text
 
-            if include_word:
-                print " * Saved in: " % path
-                with open(path, "a") as polarity_file:
-                    polarity_file.write("\n%s" % word)
+def save_word(word, path):
+    if word not in get_file_lines(path):
+        with open(path, "a") as polarity_file:
+            polarity_file.write(text_format(word))
+            return "%s %s" % (message('saved'), path)
+    return ""
 
-            keep_going = raw_input('Do you wanna keep going? (y/n):').lower()
+def manual_classifier(lang, text):
+    return save_word(get_element(text, 1), build_path(lang, get_element(text, 0)))
 
-            if keep_going == 'n':
-                another = False
-            else:
-                another = True
-
-    def setup(self):
-        lang = raw_input('What is the language you want to work with? (en/es): ')
-        self.language = lang.lower()
-
-        if not lang:
-            return
-
-        self.add_words(positive_words_path, negative_words_path)
-
-analyzer = ManualClassifier()
-analyzer.setup()
+print manual_classifier(raw_input(message('lang')), raw_input(message('word')))

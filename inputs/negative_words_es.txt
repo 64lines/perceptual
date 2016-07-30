@@ -4,6 +4,9 @@ arrepentida
 arrepentido
 enoja
 sufrir
+sufrió
+sufrirá
+sufre
 mal
 triste
 tristes
@@ -266,3 +269,16 @@ enfadada
 enfadados
 enfadadas
 cagan
+negada
+negados
+negado
+negadas
+negó
+nego
+nada
+ningún
+ningun
+tampoco
+ningunos
+ninguna
+ningunas
