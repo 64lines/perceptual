@@ -1,6 +1,3 @@
-a la vista
-a montones
-a toda prueba
 abiertamente
 abogado
 abogó
@@ -33,7 +30,6 @@ acomodado
 acomodar
 acomodaticia
 actitud
-actitud positiva
 activar
 activo
 actualidad
@@ -97,7 +93,6 @@ ahorro
 ahorros
 aire
 ajustable
-al instante
 alabando
 alcance
 alcanzable
@@ -122,11 +117,7 @@ alivio
 alivió
 allá-fabuloso
 alma
-alma de la fiesta
 alojamiento
-alta calidad
-alta civismo
-alta energía
 altruismo
 altruista
 amabilidad
@@ -144,7 +135,6 @@ ambiciosamente
 ambicioso
 amenidad
 amenizada
-amigable para los niÑos
 amigablemente
 amigo
 amistad
@@ -152,7 +142,6 @@ amistosa
 amistoso
 amo
 amor
-amor propio
 amores
 ampliamente
 amplio
@@ -166,7 +155,6 @@ animado
 animando
 animar
 ánimo
-ánimo para la vida
 anticipación
 apacible
 apalancamiento
@@ -217,14 +205,12 @@ aspiración
 aspiraciones
 astronómico
 astutamente
-asunción de riesgos
 atemorizado
 atención
 atento
 atestiguar
 atormentar
 atracción
-atracción sexual
 atractiva
 atractivo
 atraídos
@@ -236,7 +222,6 @@ auge
 auspicioso
 autenticidad
 auténtico
-auto cuidado
 auto-amabilidad
 auto-compasión
 autodeterminación
@@ -261,8 +246,6 @@ avivar
 ayuda
 ayudado
 ayudando
-bajo costo
-bajo precio
 barato
 barrido
 basta
@@ -285,26 +268,11 @@ benevolencia
 benévolo
 beso
 bien
-bien conectado
-bien conocido
-bien considerado
-bien educado
-bien equilibrada
-bien establecido-
-bien gestionada
-bien hecho
-bien informado
-bien intencionado
-bien parecido
-bien recibido
-bien redondeado
-bien retroiluminado
 bienestar
 bienquerientes
 bienvenidos
 biofilia
 bondad
-bondad amorosa
 bonitamente
 bonos
 botín
@@ -314,9 +282,6 @@ brillante
 brillo
 brillos
 broma
-buen aspecto
-buena salud
-buena voluntad
 bueno
 burlar
 caballería
@@ -354,7 +319,6 @@ celo
 centrado
 cercanía
 certeza
-
 chispa
 chispas
 chistosa
@@ -400,15 +364,6 @@ compromiso
 comunicación
 comunidad
 comunión
-con confianza
-con dulzura
-con entusiasmo
-con éxito
-con gusto
-con justicia
-con mejores resultados
-con mucho gusto
-con tenacidad
 conceder
 concentración
 conciencia
@@ -460,8 +415,6 @@ cooperativa
 cooperativamente
 coraje
 corazón
-corazón amable
-corazón de león
 cordialidad
 cordialmente
 correctamente
@@ -470,13 +423,11 @@ corteje
 cortés
 cortesía
 cosquillas
-costo de ahorro
 crear
 creatividad
 creativo
 crecer
 crecimiento
-crecimiento personal
 creíble
 cuidado
 cuidadosamente
@@ -489,24 +440,8 @@ cumplir
 curiosamente
 curiosidad
 curioso
-dado por dios
 dando
 dar
-de bajo precio
-de buena posición
-de buenos ademanes
-de corazón abierto
-de decisión
-de lujo
-de más rápido crecimiento
-de menor precio
-de modo audible
-de primera categoría
-de primera clase
-de rápido crecimiento
-de reina
-de todo corazón
-de trato fácil
 dead-barato
 deber
 decencia
@@ -556,14 +491,12 @@ desvergonzado
 determinación
 deuda
 devoción
-devolucion de dinero
 devoto
 devuelto
 dichosamente
 dichoso
 diestramente
 diestro
-dificultad para respirar
 digna
 dignidad
 dignificar
@@ -574,15 +507,12 @@ diligentemente
 diluyente
 dinámica
 dios
-dios manda
-dios mio
 diosa
 diplomática
 direccion
 disciplina
 discreción
 disfruta
-disfruta de
 disfrutado
 disfrutar
 disfrute
@@ -624,14 +554,12 @@ efectivamente
 eficacia
 eficaz
 eficiencia
-eficiencia energética
 eficiente
 efusivamente
 efusividad
 efusivo
 egocéntrico
 ejemplar
-el ahorro de energía
 elacionadas
 elástico
 elección
@@ -662,10 +590,6 @@ empatizar
 empoderamiento
 emprendedor
 en
-en apoyo
-en busca
-en un solo punto
-en vivo
 enamorado
 encantado
 encantador
@@ -679,7 +603,6 @@ enderezar
 endulzar
 energética
 energía
-energía positiva
 enfático
 engatusar
 enhorabuena
@@ -706,9 +629,7 @@ equipo
 equitativa
 equitativo
 ergonómico
--err gratis
 erudito
-es alentador
 escénico
 escuchar
 escultural
@@ -731,7 +652,6 @@ estabilidad
 estabilizar
 estable
 estacionario
-estado mental
 estelar
 estilo
 estimula
@@ -739,7 +659,6 @@ estimulación
 estimulada
 estimulante
 estimular
-estrella del rock
 estrellazo
 estudio
 estudioso
@@ -801,11 +720,7 @@ exultante
 fabulosamente
 fabuloso
 fácil
-fácil de acercarse
-fácil de usar
-fácil hablar a
 facilidad
-facilidad de la mente
 facilita
 facilitar
 fácilmente
@@ -828,7 +743,6 @@ felicidades
 felicita
 felicitar
 feliz
-feliz suerte go
 felpa
 fenomenal
 fenomenalmente
@@ -902,7 +816,6 @@ gracia
 gracias
 graciosamente
 gran
-gran capacidad
 grande
 grandeza
 grandiosidad
@@ -924,12 +837,7 @@ habilidad
 habilitado
 habilitar
 hábilmente
-hace seÑas
-hace suya
 hacer
-hacer seÑas
-hacerse querer por
-haciendo la diferencia
 halagadoramente
 halagar
 hermosa
@@ -948,7 +856,6 @@ hipnotiza
 hipnotizado
 hipnotizante
 hipnotizar
-hizo seÑas
 hola
 holística
 homenaje
@@ -1046,7 +953,6 @@ instructivo
 integrado
 integral
 integridad
-integridad personal
 inteligencia
 inteligente
 inteligible
@@ -1077,10 +983,8 @@ ir-la-extra-milla
 irreal
 irreprensible
 irreprochable
-jammin ‘
 jengibre
 joven
-jóvenes de corazón
 jovialidad
 jubilación
 jubilosa
@@ -1094,7 +998,6 @@ justicia
 justo
 juvenil
 juventud
-la piedad
 laudablemente
 leal
 lealtad
@@ -1122,7 +1025,6 @@ lisonjeramente
 listo
 llamativa
 llamativo
-lo último
 loable
 lógica
 lógico
@@ -1130,8 +1032,6 @@ lograr
 logro
 logros
 longevidad
-los cajones
-lucha contra el ataque
 lúcidamente
 lúcido
 lucrativas
@@ -1163,7 +1063,6 @@ magnífico
 majestad
 manejable
 maniobrable
-manos abajo
 mantenga
 maravillaron
 maravillas
@@ -1171,48 +1070,18 @@ maravillosa
 maravillosamente
 maravilloso
 más
-más afortunado
-más agradable
-más aguda
-más barato
-más bonito
-más caliente
-más conocido
-más duro
-más espacioso
-más fácil
-más feliz
-más firme
-más firmes
-más fresco
-más frescos
-más geeks
-más inteligente
-más práctico
-más rápido
-más resistente
-más resistentes
-más suave
-más suerte
-más vendido
-máxima calidad
 meditación
 mejor
-mejor conocido-
 mejora
 mejorada
 mejorado
 mejorar
-mejorar las cualificaciones
 mejoras
-mejor-lo esperado-
 melifluo
 meliorismo
 melocotón
 memorable
 mentalidad
-mente abierta
-mente positiva
 mente-soplado
 merecedor
 merecidamente
@@ -1238,23 +1107,14 @@ motivar
 movido
 movimiento
 muchos
-muerto en
 multiusos
-mundialmente famoso
 mutualidad
 muy
-muy barato
-muy bien
 nacimiento
 naturaleza-made
 navegable
 neotenia
 niza
-no comprometidos
-no resistencia
-no resistente
-no violencia
-no violenta
 noble
 notable
 notablemente
@@ -1262,14 +1122,12 @@ novedad
 nuevo
 nutritiva
 obediente
-obra maestra
 obras
-obras maestras
 obsceno
 obsesión
 obtenible
 ojo-catch
-om-mani-padme hum-
+om-mani-padme
 omnipotencia
 oportunidad
 oportuno
@@ -1312,10 +1170,7 @@ pasmoso
 patriota
 patriótica
 paz
-paz interior
 pendientes
-pensamiento positivo
-pensamientos positivos
 pensativo
 perdón
 perdonar
@@ -1340,7 +1195,6 @@ piadosa
 piadosamente
 picante
 piedad
-piedra angular
 pintoresco
 pionero
 placer
@@ -1351,12 +1205,10 @@ poderosamente
 poderoso
 poética
 poetizar
-por favor
 portátil
 positivamente
 positivo
 positivos
-positivos palabras
 positivos-circunstancias
 positivos-creencias
 positivos-eventos
@@ -1383,8 +1235,6 @@ preservación
 presteza
 prestigio
 previsión
-primera clase
-primero en su clase
 principios
 privacidad
 privilegiada
@@ -1424,8 +1274,6 @@ prudencia
 prudente
 prueba
 pujante
-pulgar arriba
-pulgares arriba
 pulido
 puntual
 puntualidad
@@ -1476,7 +1324,6 @@ redentor
 redimir
 reembolso
 reemplazable
-reemplazable por el usuario
 reestructuracion
 reestructuración
 reestructurado
