@@ -1,1 +1,1 @@
-watch -n 600 run.sh
+watch -n 600 ./run.sh

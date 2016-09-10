@@ -15,3 +15,4 @@ vboxapi==1.0
 virtualenv==1.11.6
 wrapt==1.10.7
 wsgiref==0.1.2
+MySQL-python==1.2.5
