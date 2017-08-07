@@ -2,7 +2,7 @@
 # -*- coding: latin-1 -*-
 import urllib
 
-from utils import get_file_lines
+from bow_analyzer import make_analysis
 from settings import DB_PORT
 from settings import DB_HOST
 from settings import DB_USER
@@ -15,6 +15,8 @@ from settings import POSITIVE_WORDS_PATH
 from settings import QUERY_ENTRIES
 from settings import UPDATE_ENTRY
 from settings import USE_DB
+from utils import get_file_lines
+from word_trainer import generate_models
 
 # Post Object
 class Post:
@@ -148,46 +150,46 @@ class EmoticonAnalyzer:
 
         return result
 
-class BagOfWordsAnalizer:
-    def __init__(self):
-        self.list_positive_words = []
-        self.list_negative_words = []
-        self.__polarities = {
-            "positive": 0,
-            "negative": 0
-        }
+# class BagOfWordsAnalizer:
+#     def __init__(self):
+#         self.list_positive_words = []
+#         self.list_negative_words = []
+#         self.__polarities = {
+#             "positive": 0,
+#             "negative": 0
+#         }
 
-    def analyze_text(self, text):
-        list_words = text.split(" ")
-        for word in list_words:
-            if word:
-                word = word.lower()
-                if word in self.list_positive_words:
-                    self.__polarities["positive"] += 1
-                elif word in self.list_negative_words:
-                    self.__polarities["negative"] += 1
+#     def analyze_text(self, text):
+#         list_words = text.split(" ")
+#         for word in list_words:
+#             if word:
+#                 word = word.lower()
+#                 if word in self.list_positive_words:
+#                     self.__polarities["positive"] += 1
+#                 elif word in self.list_negative_words:
+#                     self.__polarities["negative"] += 1
 
-        if self.__polarities["positive"] > self.__polarities["negative"]:
-            result = "positive"
-        elif self.__polarities["negative"] > self.__polarities["positive"]:
-            result = "negative"
-        else:
-            result = "neutral"
+#         if self.__polarities["positive"] > self.__polarities["negative"]:
+#             result = "positive"
+#         elif self.__polarities["negative"] > self.__polarities["positive"]:
+#             result = "negative"
+#         else:
+#             result = "neutral"
 
-        return result
+#         return result
 
-class NLTKAnalyzer:
-    def __init__(self):
-        self.__conventions = {
-            "pos": "positive", "neg": "negative", "neutral": "neutral"
-        }
+# class NLTKAnalyzer:
+#     def __init__(self):
+#         self.__conventions = {
+#             "pos": "positive", "neg": "negative", "neutral": "neutral"
+#         }
 
-    def analyze_text(self, text):
-        data = urllib.urlencode({"text": text})
-        u = urllib.urlopen(NLTK_API_URL, data)
-        the_page = u.read()
-        result = eval(the_page)['label']
-        return self.__conventions[result]
+#     def analyze_text(self, text):
+#         data = urllib.urlencode({"text": text})
+#         u = urllib.urlopen(NLTK_API_URL, data)
+#         the_page = u.read()
+#         result = eval(the_page)['label']
+#         return self.__conventions[result]
 
 # Bag of words models using positive, negative and
 # neutral statuses.
@@ -195,6 +197,7 @@ class OpinionMiningAnalyzer:
     def __init__(self):
         self.__list_positive_words = get_file_lines(POSITIVE_WORDS_PATH)
         self.__list_negative_words = get_file_lines(NEGATIVE_WORDS_PATH)
+        self.__positive_metadata, self.__negative_metadata = generate_models()
 
         # List of entries to evaluate
         self.list_entries = []
@@ -218,7 +221,7 @@ class OpinionMiningAnalyzer:
                 manager.add_analysis_record(entry.id, polarity)
 
     def __format_text(self, text):
-        chars_to_replace = ['#', '?', '!', '.', '\"', ',', '\'', '¿']
+        chars_to_replace = ['#', '?', '!', '.', '\"', ',', '\'', 'ï¿½']
         text = text.strip().lower()
 
         # Removing literal marks.
@@ -239,10 +242,10 @@ class OpinionMiningAnalyzer:
         emo_result = emo_analyzer.analyze_text(text)
 
         # Bag of words analysis
-        bow_analyzer = BagOfWordsAnalizer()
-        bow_analyzer.list_positive_words = self.__list_positive_words
-        bow_analyzer.list_negative_words = self.__list_negative_words
-        bow_result = bow_analyzer.analyze_text(text)
+        #bow_analyzer = BagOfWordsAnalizer()
+        #bow_analyzer.list_positive_words = self.__list_positive_words
+        #bow_analyzer.list_negative_words = self.__list_negative_words
+        bow_result = make_analysis(text, self.__positive_metadata, self.__negative_metadata)
 
         # NLTK analysis
         #nltk_analyzer = NLTKAnalyzer()
