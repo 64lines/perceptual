@@ -20,6 +20,7 @@ class MachineLearningTrainer():
 
     def save_metadata(self, file_name, metadata):
         file_metadata = open(file_name, 'w+')
+        sorted(metadata, key=lambda x: x['weight'], reverse=True)        
         for word_object in metadata:
             file_metadata.write("%s|%s\n" % (word_object['word'], word_object['weight']))
         file_metadata.close()
